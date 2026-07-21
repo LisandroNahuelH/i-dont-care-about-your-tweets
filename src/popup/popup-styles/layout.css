@@ -17,6 +17,45 @@
   box-shadow: var(--card-shadow);
 }
 
+.popup-header-main {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-width: 0;
+}
+
+.p11-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.p11-brand__mark {
+  display: block;
+  width: 26px;
+  height: 26px;
+  border-radius: 7px;
+  flex-shrink: 0;
+}
+
+.p11-brand__name {
+  display: inline-flex;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  line-height: 1;
+  color: var(--text);
+}
+
+.p11-brand__name::before {
+  content: "Premium";
+}
+
+.p11-brand__name::after {
+  content: "11";
+  color: #11ad32;
+}
+
 .popup-header-actions {
   display: flex;
   flex: 0 0 auto;
