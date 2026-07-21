@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+    <linearGradient id="bubbleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1DA1F2"/>
+      <stop offset="100%" style="stop-color:#4ECDC4"/>
+    </linearGradient>
+    <linearGradient id="slashGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF6B6B"/>
+      <stop offset="100%" style="stop-color:#FF8E53"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background rounded square -->
+  <rect x="0" y="0" width="128" height="128" rx="24" ry="24" fill="url(#bgGrad)"/>
+  
+  <!-- Speech bubble -->
+  <path d="M 30 38 
+           C 30 30, 38 24, 48 24 
+           L 80 24 
+           C 90 24, 98 30, 98 38 
+           L 98 68 
+           C 98 76, 90 82, 80 82 
+           L 58 82 
+           L 42 98 
+           L 46 82 
+           L 48 82 
+           C 38 82, 30 76, 30 68 
+           Z" 
+        fill="url(#bubbleGrad)" opacity="0.9"/>
+  
+  <!-- Slash/ban line through the bubble -->
+  <line x1="26" y1="96" x2="102" y2="20" 
+        stroke="url(#slashGrad)" stroke-width="8" stroke-linecap="round"/>
+  
+  <!-- X mark inside bubble -->
+  <g transform="translate(64, 53)">
+    <line x1="-14" y1="-14" x2="14" y2="14" stroke="#1a1a2e" stroke-width="6" stroke-linecap="round"/>
+    <line x1="14" y1="-14" x2="-14" y2="14" stroke="#1a1a2e" stroke-width="6" stroke-linecap="round"/>
+  </g>
+</svg>

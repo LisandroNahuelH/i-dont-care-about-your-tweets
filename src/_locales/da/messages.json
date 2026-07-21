@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Jeg Gider Ikke Dine Tweets Premium11: Bloker, Mute, Ikke Interesseret"
+  },
+  "extensionDescription": {
+    "message": "Tilføjer knapperne Bloker, Slå fra og Ikke interesseret til hvert opslag på X.com."
+  },
+  "actionBlock": {
+    "message": "Bloker"
+  },
+  "actionBlockTitle": {
+    "message": "Bloker forfatteren af dette opslag"
+  },
+  "actionMute": {
+    "message": "Slå fra"
+  },
+  "actionMuteTitle": {
+    "message": "Slå forfatteren af dette opslag fra"
+  },
+  "actionDismiss": {
+    "message": "Ikke interesseret"
+  },
+  "actionDismissTitle": {
+    "message": "Fortæl X, at du ikke er interesseret i dette opslag"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Knap-sæt"
+  },
+  "popupSubtitle": {
+    "message": "Vælg det ikonsæt, der vises på hvert opslag."
+  },
+  "popupReset": {
+    "message": "Nulstil"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Forhåndsvisning af knap-sæt"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Tilgængelige knap-sæt"
+  },
+  "kitClassicName": {
+    "message": "Klassisk"
+  },
+  "kitClassicDescription": {
+    "message": "Det originale knapsæt."
+  },
+  "kitMinimalName": {
+    "message": "Minimalt"
+  },
+  "kitMinimalDescription": {
+    "message": "Tynde, diskrete linjer til en lettere tidslinje."
+  },
+  "kitBoldName": {
+    "message": "Fed"
+  },
+  "kitBoldDescription": {
+    "message": "Tykkere konturer med stærkere synlighed."
+  },
+  "kitSharpName": {
+    "message": "Skarp"
+  },
+  "kitSharpDescription": {
+    "message": "Kantede symboler med en mere teknisk fornemmelse."
+  },
+  "kitSoftName": {
+    "message": "Blød"
+  },
+  "kitSoftDescription": {
+    "message": "Afrundede, venlige former med bløde kurver."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "tak. x vil bruge dette til at forbedre din tidslinje"
+  },
+  "dismissFeedbackUndo": {
+    "message": "fortryd"
+  },
+  "popupThemeLight": {
+    "message": "Dag"
+  },
+  "popupThemeDark": {
+    "message": "Nat"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Skift popup-tema"
+  }
+}

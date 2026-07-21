@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Wala Akong Pakialam Sa Tweets Mo Premium11: Block, Mute, Not Interested"
+  },
+  "extensionDescription": {
+    "message": "Nagdaragdag ng Block, Mute, at Not Interested na mga button sa bawat post sa X.com."
+  },
+  "actionBlock": {
+    "message": "I-block"
+  },
+  "actionBlockTitle": {
+    "message": "I-block ang may-akda ng post na ito"
+  },
+  "actionMute": {
+    "message": "I-mute"
+  },
+  "actionMuteTitle": {
+    "message": "I-mute ang may-akda ng post na ito"
+  },
+  "actionDismiss": {
+    "message": "Hindi interesado"
+  },
+  "actionDismissTitle": {
+    "message": "Sabihin sa X na hindi ka interesado sa post na ito"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Set ng button"
+  },
+  "popupSubtitle": {
+    "message": "Piliin ang icon set na ipinapakita sa bawat post."
+  },
+  "popupReset": {
+    "message": "I-reset"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Preview ng button kit"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Mga available na button kit"
+  },
+  "kitClassicName": {
+    "message": "Klasiko"
+  },
+  "kitClassicDescription": {
+    "message": "Ang orihinal na button set."
+  },
+  "kitMinimalName": {
+    "message": "Payak"
+  },
+  "kitMinimalDescription": {
+    "message": "Manipis, tahimik na linya para sa mas magaang timeline."
+  },
+  "kitBoldName": {
+    "message": "Makapal"
+  },
+  "kitBoldDescription": {
+    "message": "Mas makapal na outline na may mas malakas na visibility."
+  },
+  "kitSharpName": {
+    "message": "Matalas"
+  },
+  "kitSharpDescription": {
+    "message": "Mga angular na simbolo na may mas teknikal na dating."
+  },
+  "kitSoftName": {
+    "message": "Malambot"
+  },
+  "kitSoftDescription": {
+    "message": "Bilog at friendly na hugis na may makinis na kurba."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "salamat. gagamitin ito ng x para mapabuti ang timeline mo"
+  },
+  "dismissFeedbackUndo": {
+    "message": "i-undo"
+  },
+  "popupThemeLight": {
+    "message": "Araw"
+  },
+  "popupThemeDark": {
+    "message": "Gabi"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Palitan ang tema ng popup"
+  }
+}

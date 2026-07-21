@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "మీ ట్వీట్‌ల గురించి నాకు పట్టింపు లేదు Premium11: బ్లాక్, మ్యూట్"
+  },
+  "extensionDescription": {
+    "message": "ప్రతి X.com పోస్ట్‌కు బ్లాక్, మ్యూట్ మరియు ఆసక్తి లేదు బటన్‌లను జోడిస్తుంది."
+  },
+  "actionBlock": {
+    "message": "బ్లాక్ చేయి"
+  },
+  "actionBlockTitle": {
+    "message": "ఈ పోస్ట్ రచయితను బ్లాక్ చేయి"
+  },
+  "actionMute": {
+    "message": "మ్యూట్ చేయి"
+  },
+  "actionMuteTitle": {
+    "message": "ఈ పోస్ట్ రచయితను మ్యూట్ చేయి"
+  },
+  "actionDismiss": {
+    "message": "ఆసక్తి లేదు"
+  },
+  "actionDismissTitle": {
+    "message": "ఈ పోస్ట్‌పై మీకు ఆసక్తి లేదని Xకు తెలియజేయండి"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "బటన్ కిట్"
+  },
+  "popupSubtitle": {
+    "message": "ప్రతి పోస్ట్‌లో చూపించే ఐకాన్ సెట్‌ను ఎంచుకోండి."
+  },
+  "popupReset": {
+    "message": "రీసెట్"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "బటన్ కిట్ ప్రివ్యూ"
+  },
+  "popupKitListAriaLabel": {
+    "message": "అందుబాటులో ఉన్న బటన్ కిట్‌లు"
+  },
+  "kitClassicName": {
+    "message": "క్లాసిక్"
+  },
+  "kitClassicDescription": {
+    "message": "అసలు బటన్ సెట్."
+  },
+  "kitMinimalName": {
+    "message": "మినిమల్"
+  },
+  "kitMinimalDescription": {
+    "message": "తేలికపాటి టైమ్‌లైన్ కోసం సన్నని, నిశ్శబ్ద గీతలు."
+  },
+  "kitBoldName": {
+    "message": "బోల్డ్"
+  },
+  "kitBoldDescription": {
+    "message": "బలమైన దృశ్యతతో మందపాటి అవుట్‌లైన్‌లు."
+  },
+  "kitSharpName": {
+    "message": "షార్ప్"
+  },
+  "kitSharpDescription": {
+    "message": "సాంకేతిక అనుభూతితో కోణ చిహ్నాలు."
+  },
+  "kitSoftName": {
+    "message": "సాఫ్ట్"
+  },
+  "kitSoftDescription": {
+    "message": "మృదువైన వక్రతలతో గుండ్రని, స్నేహపూర్వక ఆకారాలు."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "ధన్యవాదాలు. x మీ టైమ్‌లైన్‌ను మెరుగుపరచడానికి దీన్ని ఉపయోగిస్తుంది"
+  },
+  "dismissFeedbackUndo": {
+    "message": "రద్దు చేయి"
+  },
+  "popupThemeLight": {
+    "message": "పగలు"
+  },
+  "popupThemeDark": {
+    "message": "రాత్రి"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "పాపప్ థీమ్ మార్చు"
+  }
+}

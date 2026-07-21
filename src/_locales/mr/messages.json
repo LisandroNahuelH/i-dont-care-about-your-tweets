@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "मला तुमच्या ट्विट्सची काळजी नाही Premium11: ब्लॉक, म्यूट, रस नाही"
+  },
+  "extensionDescription": {
+    "message": "प्रत्येक X.com पोस्टवर ब्लॉक, म्यूट आणि स्वारस्य नाही बटणे जोडते."
+  },
+  "actionBlock": {
+    "message": "ब्लॉक"
+  },
+  "actionBlockTitle": {
+    "message": "या पोस्टच्या लेखकाला ब्लॉक करा"
+  },
+  "actionMute": {
+    "message": "म्यूट"
+  },
+  "actionMuteTitle": {
+    "message": "या पोस्टच्या लेखकाला म्यूट करा"
+  },
+  "actionDismiss": {
+    "message": "स्वारस्य नाही"
+  },
+  "actionDismissTitle": {
+    "message": "या पोस्टमध्ये तुम्हाला स्वारस्य नाही हे X ला कळवा"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "बटण किट"
+  },
+  "popupSubtitle": {
+    "message": "प्रत्येक पोस्टवर दाखवलेला चिन्ह संच निवडा."
+  },
+  "popupReset": {
+    "message": "रीसेट"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "बटण किट पूर्वावलोकन"
+  },
+  "popupKitListAriaLabel": {
+    "message": "उपलब्ध बटण किट"
+  },
+  "kitClassicName": {
+    "message": "क्लासिक"
+  },
+  "kitClassicDescription": {
+    "message": "मूळ बटण संच."
+  },
+  "kitMinimalName": {
+    "message": "मिनिमल"
+  },
+  "kitMinimalDescription": {
+    "message": "पातळ, शांत रेषा हलक्या टाइमलाइनसाठी."
+  },
+  "kitBoldName": {
+    "message": "बोल्ड"
+  },
+  "kitBoldDescription": {
+    "message": "जाड आउटलाइन अधिक दृश्यमानतेसह."
+  },
+  "kitSharpName": {
+    "message": "शार्प"
+  },
+  "kitSharpDescription": {
+    "message": "कोनदार चिन्हे अधिक तांत्रिक अनुभवासह."
+  },
+  "kitSoftName": {
+    "message": "सॉफ्ट"
+  },
+  "kitSoftDescription": {
+    "message": "गोलाकार, मैत्रीपूर्ण आकार गुळगुळीत वक्ररेषांसह."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "धन्यवाद. x हे तुमची टाइमलाइन सुधारण्यासाठी वापरेल"
+  },
+  "dismissFeedbackUndo": {
+    "message": "पूर्ववत करा"
+  },
+  "popupThemeLight": {
+    "message": "दिवस"
+  },
+  "popupThemeDark": {
+    "message": "रात्र"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "पॉपअप थीम बदला"
+  }
+}

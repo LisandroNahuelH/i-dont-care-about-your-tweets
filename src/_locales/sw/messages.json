@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Sijali Kuhusu Tweet Zako Premium11: Zuia, Nyamazisha, Sivutii"
+  },
+  "extensionDescription": {
+    "message": "Huongeza vitufe vya Zuia, Nyamazisha na Sihusiki kwenye kila chapisho la X.com."
+  },
+  "actionBlock": {
+    "message": "Zuia"
+  },
+  "actionBlockTitle": {
+    "message": "Zuia mwandishi wa chapisho hili"
+  },
+  "actionMute": {
+    "message": "Nyamazisha"
+  },
+  "actionMuteTitle": {
+    "message": "Nyamazisha mwandishi wa chapisho hili"
+  },
+  "actionDismiss": {
+    "message": "Sihusiki"
+  },
+  "actionDismissTitle": {
+    "message": "Mwambie X kuwa huna nia ya chapisho hili"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Seti ya vitufe"
+  },
+  "popupSubtitle": {
+    "message": "Chagua seti ya ikoni inayoonyeshwa kwenye kila chapisho."
+  },
+  "popupReset": {
+    "message": "Weka upya"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Onyesho la seti ya vitufe"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Seti za vitufe zinazopatikana"
+  },
+  "kitClassicName": {
+    "message": "Klasiki"
+  },
+  "kitClassicDescription": {
+    "message": "Seti ya asili ya vitufe."
+  },
+  "kitMinimalName": {
+    "message": "Rahisi"
+  },
+  "kitMinimalDescription": {
+    "message": "Mistari nyembamba na tulivu kwa ratiba nyepesi."
+  },
+  "kitBoldName": {
+    "message": "Nzito"
+  },
+  "kitBoldDescription": {
+    "message": "Muhtasari mpana wenye mwonekano thabiti."
+  },
+  "kitSharpName": {
+    "message": "Kali"
+  },
+  "kitSharpDescription": {
+    "message": "Alama za pembe zenye hisia ya kiteknolojia."
+  },
+  "kitSoftName": {
+    "message": "Laini"
+  },
+  "kitSoftDescription": {
+    "message": "Maumbo yaliyopindwa na marudi laini."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "asante. x itatumia hii kuboresha ratiba yako"
+  },
+  "dismissFeedbackUndo": {
+    "message": "tendua"
+  },
+  "popupThemeLight": {
+    "message": "Mchana"
+  },
+  "popupThemeDark": {
+    "message": "Usiku"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Badilisha mandhari ya kidirisha ibukizi"
+  }
+}

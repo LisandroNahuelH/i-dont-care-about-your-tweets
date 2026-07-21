@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Nu-Mi Pasă De Postările Tale Premium11: Blochează, Amuțește, Nu Interesează"
+  },
+  "extensionDescription": {
+    "message": "Adaugă butoanele Blochează, Amuțește și Nu mă interesează la fiecare postare de pe X.com."
+  },
+  "actionBlock": {
+    "message": "Blochează"
+  },
+  "actionBlockTitle": {
+    "message": "Blochează autorul acestei postări"
+  },
+  "actionMute": {
+    "message": "Amuțește"
+  },
+  "actionMuteTitle": {
+    "message": "Amuțește autorul acestei postări"
+  },
+  "actionDismiss": {
+    "message": "Nu mă interesează"
+  },
+  "actionDismissTitle": {
+    "message": "Spune-i lui X că nu te interesează această postare"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Set de butoane"
+  },
+  "popupSubtitle": {
+    "message": "Alege setul de pictograme afișat la fiecare postare."
+  },
+  "popupReset": {
+    "message": "Resetează"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Previzualizare set de butoane"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Seturi de butoane disponibile"
+  },
+  "kitClassicName": {
+    "message": "Clasic"
+  },
+  "kitClassicDescription": {
+    "message": "Setul original de butoane."
+  },
+  "kitMinimalName": {
+    "message": "Minimalist"
+  },
+  "kitMinimalDescription": {
+    "message": "Linii subțiri și discrete pentru un cronologic mai ușor."
+  },
+  "kitBoldName": {
+    "message": "Îngroșat"
+  },
+  "kitBoldDescription": {
+    "message": "Contururi mai groase, cu vizibilitate sporită."
+  },
+  "kitSharpName": {
+    "message": "Ascuțit"
+  },
+  "kitSharpDescription": {
+    "message": "Simboluri unghiulare cu un aspect mai tehnic."
+  },
+  "kitSoftName": {
+    "message": "Moale"
+  },
+  "kitSoftDescription": {
+    "message": "Forme rotunjite și prietenoase cu curbe line."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "mulțumim. x va folosi asta pentru a-ți îmbunătăți cronologia"
+  },
+  "dismissFeedbackUndo": {
+    "message": "anulează"
+  },
+  "popupThemeLight": {
+    "message": "Zi"
+  },
+  "popupThemeDark": {
+    "message": "Noapte"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Comută tema ferestrei popup"
+  }
+}

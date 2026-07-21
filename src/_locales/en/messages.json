@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "I Don'T Care About Your Tweets Premium11: Block, Mute & Not Interested On X"
+  },
+  "extensionDescription": {
+    "message": "Adds Block, Mute, and Not Interested buttons to each X.com post."
+  },
+  "actionBlock": {
+    "message": "Block"
+  },
+  "actionBlockTitle": {
+    "message": "Block the author of this post"
+  },
+  "actionMute": {
+    "message": "Mute"
+  },
+  "actionMuteTitle": {
+    "message": "Mute the author of this post"
+  },
+  "actionDismiss": {
+    "message": "Not interested"
+  },
+  "actionDismissTitle": {
+    "message": "Tell X that you are not interested in this post"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Button kit"
+  },
+  "popupSubtitle": {
+    "message": "Choose the icon set shown on each post."
+  },
+  "popupReset": {
+    "message": "Reset"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Button kit preview"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Available button kits"
+  },
+  "kitClassicName": {
+    "message": "Classic"
+  },
+  "kitClassicDescription": {
+    "message": "The original button set."
+  },
+  "kitMinimalName": {
+    "message": "Minimal"
+  },
+  "kitMinimalDescription": {
+    "message": "Thin, quiet lines for a lighter timeline."
+  },
+  "kitBoldName": {
+    "message": "Bold"
+  },
+  "kitBoldDescription": {
+    "message": "Chunkier outlines with stronger visibility."
+  },
+  "kitSharpName": {
+    "message": "Sharp"
+  },
+  "kitSharpDescription": {
+    "message": "Angular symbols with a more technical feel."
+  },
+  "kitSoftName": {
+    "message": "Soft"
+  },
+  "kitSoftDescription": {
+    "message": "Rounded, friendly shapes with smooth curves."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "thanks. x will use this to improve your timeline"
+  },
+  "dismissFeedbackUndo": {
+    "message": "undo"
+  },
+  "popupThemeLight": {
+    "message": "Day"
+  },
+  "popupThemeDark": {
+    "message": "Night"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Toggle popup theme"
+  }
+}

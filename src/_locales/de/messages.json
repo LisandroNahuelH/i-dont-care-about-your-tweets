@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Deine Tweets Sind Mir Egal Premium11: Block, Mute, Nicht Interessiert"
+  },
+  "extensionDescription": {
+    "message": "Fügt jedem X.com-Beitrag Schaltflächen zum Blockieren, Stummschalten und „Nicht interessiert“ hinzu."
+  },
+  "actionBlock": {
+    "message": "Blockieren"
+  },
+  "actionBlockTitle": {
+    "message": "Autor dieses Beitrags blockieren"
+  },
+  "actionMute": {
+    "message": "Stummschalten"
+  },
+  "actionMuteTitle": {
+    "message": "Autor dieses Beitrags stummschalten"
+  },
+  "actionDismiss": {
+    "message": "Nicht interessiert"
+  },
+  "actionDismissTitle": {
+    "message": "X mitteilen, dass du an diesem Beitrag nicht interessiert bist"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Schaltflächen-Set"
+  },
+  "popupSubtitle": {
+    "message": "Wähle das Symbolset, das bei jedem Beitrag angezeigt wird."
+  },
+  "popupReset": {
+    "message": "Zurücksetzen"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Vorschau des Schaltflächen-Sets"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Verfügbare Schaltflächen-Sets"
+  },
+  "kitClassicName": {
+    "message": "Klassisch"
+  },
+  "kitClassicDescription": {
+    "message": "Das ursprüngliche Schaltflächen-Set."
+  },
+  "kitMinimalName": {
+    "message": "Minimalistisch"
+  },
+  "kitMinimalDescription": {
+    "message": "Feine, dezente Linien für eine leichtere Timeline."
+  },
+  "kitBoldName": {
+    "message": "Fett"
+  },
+  "kitBoldDescription": {
+    "message": "Kräftigere Umrisse mit stärkerer Sichtbarkeit."
+  },
+  "kitSharpName": {
+    "message": "Scharf"
+  },
+  "kitSharpDescription": {
+    "message": "Kantige Symbole mit technischerem Look."
+  },
+  "kitSoftName": {
+    "message": "Weich"
+  },
+  "kitSoftDescription": {
+    "message": "Abgerundete, freundliche Formen mit sanften Kurven."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "danke. x wird dies nutzen, um deine timeline zu verbessern"
+  },
+  "dismissFeedbackUndo": {
+    "message": "rückgängig"
+  },
+  "popupThemeLight": {
+    "message": "Tag"
+  },
+  "popupThemeDark": {
+    "message": "Nacht"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Popup-Design umschalten"
+  }
+}

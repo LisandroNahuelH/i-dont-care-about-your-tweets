@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Non Mi Importano I Tuoi Post Premium11: Blocca, Silenzia, Non Mi Interessa"
+  },
+  "extensionDescription": {
+    "message": "Aggiunge i pulsanti Blocca, Silenzia e Non mi interessa a ogni post su X.com."
+  },
+  "actionBlock": {
+    "message": "Blocca"
+  },
+  "actionBlockTitle": {
+    "message": "Blocca l'autore di questo post"
+  },
+  "actionMute": {
+    "message": "Silenzia"
+  },
+  "actionMuteTitle": {
+    "message": "Silenzia l'autore di questo post"
+  },
+  "actionDismiss": {
+    "message": "Non mi interessa"
+  },
+  "actionDismissTitle": {
+    "message": "Comunica a X che questo post non ti interessa"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Set di pulsanti"
+  },
+  "popupSubtitle": {
+    "message": "Scegli l'insieme di icone mostrato su ogni post."
+  },
+  "popupReset": {
+    "message": "Ripristina"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Anteprima set di pulsanti"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Set di pulsanti disponibili"
+  },
+  "kitClassicName": {
+    "message": "Classico"
+  },
+  "kitClassicDescription": {
+    "message": "Il set di pulsanti originale."
+  },
+  "kitMinimalName": {
+    "message": "Minimale"
+  },
+  "kitMinimalDescription": {
+    "message": "Linee sottili e discrete per una timeline più leggera."
+  },
+  "kitBoldName": {
+    "message": "Grassetto"
+  },
+  "kitBoldDescription": {
+    "message": "Contorni più spessi con maggiore visibilità."
+  },
+  "kitSharpName": {
+    "message": "Netto"
+  },
+  "kitSharpDescription": {
+    "message": "Simboli angolari con un aspetto più tecnico."
+  },
+  "kitSoftName": {
+    "message": "Morbido"
+  },
+  "kitSoftDescription": {
+    "message": "Forme arrotondate e amichevoli con curve morbide."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "grazie. x userà questo per migliorare la tua timeline"
+  },
+  "dismissFeedbackUndo": {
+    "message": "annulla"
+  },
+  "popupThemeLight": {
+    "message": "Giorno"
+  },
+  "popupThemeDark": {
+    "message": "Notte"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Cambia tema del popup"
+  }
+}

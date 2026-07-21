@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Мне Плевать На Ваши Твиты Premium11: Блок, Заглушить, Не Интересно"
+  },
+  "extensionDescription": {
+    "message": "Добавляет кнопки «Заблокировать», «Заглушить» и «Не интересно» к каждому посту на X.com."
+  },
+  "actionBlock": {
+    "message": "Заблокировать"
+  },
+  "actionBlockTitle": {
+    "message": "Заблокировать автора этого поста"
+  },
+  "actionMute": {
+    "message": "Заглушить"
+  },
+  "actionMuteTitle": {
+    "message": "Заглушить автора этого поста"
+  },
+  "actionDismiss": {
+    "message": "Не интересно"
+  },
+  "actionDismissTitle": {
+    "message": "Сообщить X, что этот пост вам не интересен"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Набор кнопок"
+  },
+  "popupSubtitle": {
+    "message": "Выберите набор значков, отображаемых у каждого поста."
+  },
+  "popupReset": {
+    "message": "Сбросить"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Предпросмотр набора кнопок"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Доступные наборы кнопок"
+  },
+  "kitClassicName": {
+    "message": "Классический"
+  },
+  "kitClassicDescription": {
+    "message": "Оригинальный набор кнопок."
+  },
+  "kitMinimalName": {
+    "message": "Минималистичный"
+  },
+  "kitMinimalDescription": {
+    "message": "Тонкие, ненавязчивые линии для более лёгкой ленты."
+  },
+  "kitBoldName": {
+    "message": "Жирный"
+  },
+  "kitBoldDescription": {
+    "message": "Более толстые контуры с повышенной заметностью."
+  },
+  "kitSharpName": {
+    "message": "Резкий"
+  },
+  "kitSharpDescription": {
+    "message": "Угловатые символы с более техничным видом."
+  },
+  "kitSoftName": {
+    "message": "Мягкий"
+  },
+  "kitSoftDescription": {
+    "message": "Округлые, дружелюбные формы с плавными изгибами."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "спасибо. x использует это, чтобы улучшить вашу ленту"
+  },
+  "dismissFeedbackUndo": {
+    "message": "отменить"
+  },
+  "popupThemeLight": {
+    "message": "День"
+  },
+  "popupThemeDark": {
+    "message": "Ночь"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Переключить тему всплывающего окна"
+  }
+}

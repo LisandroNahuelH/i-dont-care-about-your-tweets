@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Jag Bryr Mig Inte Om Dina Tweets Premium11: Blockera, Tysta, Ointresserad"
+  },
+  "extensionDescription": {
+    "message": "Lägger till knapparna Blockera, Tysta och Inte intresserad på varje inlägg på X.com."
+  },
+  "actionBlock": {
+    "message": "Blockera"
+  },
+  "actionBlockTitle": {
+    "message": "Blockera författaren av detta inlägg"
+  },
+  "actionMute": {
+    "message": "Tysta"
+  },
+  "actionMuteTitle": {
+    "message": "Tysta författaren av detta inlägg"
+  },
+  "actionDismiss": {
+    "message": "Inte intresserad"
+  },
+  "actionDismissTitle": {
+    "message": "Berätta för X att du inte är intresserad av detta inlägg"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Knappuppsättning"
+  },
+  "popupSubtitle": {
+    "message": "Välj ikonuppsättningen som visas på varje inlägg."
+  },
+  "popupReset": {
+    "message": "Återställ"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Förhandsgranskning av knappuppsättning"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Tillgängliga knappuppsättningar"
+  },
+  "kitClassicName": {
+    "message": "Klassisk"
+  },
+  "kitClassicDescription": {
+    "message": "Den ursprungliga knappuppsättningen."
+  },
+  "kitMinimalName": {
+    "message": "Minimalistisk"
+  },
+  "kitMinimalDescription": {
+    "message": "Tunna, diskreta linjer för en lättare tidslinje."
+  },
+  "kitBoldName": {
+    "message": "Fet"
+  },
+  "kitBoldDescription": {
+    "message": "Tjockare konturer med starkare synlighet."
+  },
+  "kitSharpName": {
+    "message": "Skarp"
+  },
+  "kitSharpDescription": {
+    "message": "Kantiga symboler med en mer teknisk känsla."
+  },
+  "kitSoftName": {
+    "message": "Mjuk"
+  },
+  "kitSoftDescription": {
+    "message": "Rundade, vänliga former med mjuka kurvor."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "tack. x kommer att använda detta för att förbättra din tidslinje"
+  },
+  "dismissFeedbackUndo": {
+    "message": "ångra"
+  },
+  "popupThemeLight": {
+    "message": "Dag"
+  },
+  "popupThemeDark": {
+    "message": "Natt"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Byt popup-tema"
+  }
+}

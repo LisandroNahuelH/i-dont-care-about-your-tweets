@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "મને તમારા ટ્વીટ્સની પરવા નથી Premium11: બ્લોક, મ્યૂટ, રસ નથી"
+  },
+  "extensionDescription": {
+    "message": "દરેક X.com પોસ્ટ પર બ્લોક, મ્યૂટ અને રસ નથી બટન ઉમેરે છે."
+  },
+  "actionBlock": {
+    "message": "બ્લોક"
+  },
+  "actionBlockTitle": {
+    "message": "આ પોસ્ટના લેખકને બ્લોક કરો"
+  },
+  "actionMute": {
+    "message": "મ્યૂટ"
+  },
+  "actionMuteTitle": {
+    "message": "આ પોસ્ટના લેખકને મ્યૂટ કરો"
+  },
+  "actionDismiss": {
+    "message": "રસ નથી"
+  },
+  "actionDismissTitle": {
+    "message": "X ને કહો કે તમને આ પોસ્ટમાં રસ નથી"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "બટન કિટ"
+  },
+  "popupSubtitle": {
+    "message": "દરેક પોસ્ટ પર દર્શાવવાનો આઇકન સેટ પસંદ કરો."
+  },
+  "popupReset": {
+    "message": "રીસેટ"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "બટન કિટ પ્રિવ્યૂ"
+  },
+  "popupKitListAriaLabel": {
+    "message": "ઉપલબ્ધ બટન કિટ્સ"
+  },
+  "kitClassicName": {
+    "message": "ક્લાસિક"
+  },
+  "kitClassicDescription": {
+    "message": "મૂળ બટન સેટ."
+  },
+  "kitMinimalName": {
+    "message": "મિનિમલ"
+  },
+  "kitMinimalDescription": {
+    "message": "હળવા ટાઇમલાઇન માટે પાતળી, શાંત રેખાઓ."
+  },
+  "kitBoldName": {
+    "message": "બોલ્ડ"
+  },
+  "kitBoldDescription": {
+    "message": "વધુ દૃશ્યતા સાથે મોટા આઉટલાઇન."
+  },
+  "kitSharpName": {
+    "message": "શાર્પ"
+  },
+  "kitSharpDescription": {
+    "message": "વધુ તકનીકી અનુભવ સાથે ખૂણાવાળા પ્રતીકો."
+  },
+  "kitSoftName": {
+    "message": "સોફ્ટ"
+  },
+  "kitSoftDescription": {
+    "message": "મુલાયમ વળાંક સાથે ગોળ, મૈત્રીપૂર્ણ આકારો."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "આભાર. x તમારી ટાઇમલાઇન સુધારવા માટે આનો ઉપયોગ કરશે"
+  },
+  "dismissFeedbackUndo": {
+    "message": "પૂર્વવત્ કરો"
+  },
+  "popupThemeLight": {
+    "message": "દિવસ"
+  },
+  "popupThemeDark": {
+    "message": "રાત"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "પોપઅપ થીમ બદલો"
+  }
+}

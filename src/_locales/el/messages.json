@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Δεν Με Νοιάζουν Τα Tweets Σας Premium11: Μπλοκ, Σίγαση, Όχι Ενδιαφέρον"
+  },
+  "extensionDescription": {
+    "message": "Προσθέτει κουμπιά Αποκλεισμός, Σίγαση και Δεν με ενδιαφέρει σε κάθε δημοσίευση στο X.com."
+  },
+  "actionBlock": {
+    "message": "Αποκλεισμός"
+  },
+  "actionBlockTitle": {
+    "message": "Αποκλεισμός του συντάκτη αυτής της δημοσίευσης"
+  },
+  "actionMute": {
+    "message": "Σίγαση"
+  },
+  "actionMuteTitle": {
+    "message": "Σίγαση του συντάκτη αυτής της δημοσίευσης"
+  },
+  "actionDismiss": {
+    "message": "Δεν με ενδιαφέρει"
+  },
+  "actionDismissTitle": {
+    "message": "Ενημέρωσε το X ότι δεν σε ενδιαφέρει αυτή η δημοσίευση"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Σετ κουμπιών"
+  },
+  "popupSubtitle": {
+    "message": "Επίλεξε το σύνολο εικονιδίων που εμφανίζεται σε κάθε δημοσίευση."
+  },
+  "popupReset": {
+    "message": "Επαναφορά"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Προεπισκόπηση σετ κουμπιών"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Διαθέσιμα σετ κουμπιών"
+  },
+  "kitClassicName": {
+    "message": "Κλασικό"
+  },
+  "kitClassicDescription": {
+    "message": "Το αρχικό σετ κουμπιών."
+  },
+  "kitMinimalName": {
+    "message": "Λιτό"
+  },
+  "kitMinimalDescription": {
+    "message": "Λεπτές, διακριτικές γραμμές για ένα πιο ελαφρύ χρονολόγιο."
+  },
+  "kitBoldName": {
+    "message": "Έντονο"
+  },
+  "kitBoldDescription": {
+    "message": "Πιο χοντρά περιγράμματα με ισχυρότερη ορατότητα."
+  },
+  "kitSharpName": {
+    "message": "Οξύ"
+  },
+  "kitSharpDescription": {
+    "message": "Γωνιώδη σύμβολα με πιο τεχνική αίσθηση."
+  },
+  "kitSoftName": {
+    "message": "Απαλό"
+  },
+  "kitSoftDescription": {
+    "message": "Στρογγυλεμένα, φιλικά σχήματα με ομαλές καμπύλες."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "ευχαριστούμε. το x θα το χρησιμοποιήσει για να βελτιώσει το χρονολόγιό σας"
+  },
+  "dismissFeedbackUndo": {
+    "message": "αναίρεση"
+  },
+  "popupThemeLight": {
+    "message": "Ημέρα"
+  },
+  "popupThemeDark": {
+    "message": "Νύχτα"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Εναλλαγή θέματος αναδυόμενου παραθύρου"
+  }
+}

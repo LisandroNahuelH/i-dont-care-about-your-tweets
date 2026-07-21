@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Nije Me Briga Za Tvoje Tweetove Premium11: Blokiraj, Utišaj, Ne Zanima Me"
+  },
+  "extensionDescription": {
+    "message": "Dodaje gumbe Blokiraj, Utišaj i Nisam zainteresiran na svaku objavu na X.com."
+  },
+  "actionBlock": {
+    "message": "Blokiraj"
+  },
+  "actionBlockTitle": {
+    "message": "Blokiraj autora ove objave"
+  },
+  "actionMute": {
+    "message": "Utišaj"
+  },
+  "actionMuteTitle": {
+    "message": "Utišaj autora ove objave"
+  },
+  "actionDismiss": {
+    "message": "Nisam zainteresiran"
+  },
+  "actionDismissTitle": {
+    "message": "Recite X-u da vas ova objava ne zanima"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Komplet gumba"
+  },
+  "popupSubtitle": {
+    "message": "Odaberite skup ikona prikazan na svakoj objavi."
+  },
+  "popupReset": {
+    "message": "Poništi"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Pregled kompleta gumba"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Dostupni kompleti gumba"
+  },
+  "kitClassicName": {
+    "message": "Klasičan"
+  },
+  "kitClassicDescription": {
+    "message": "Izvorni skup gumba."
+  },
+  "kitMinimalName": {
+    "message": "Minimalan"
+  },
+  "kitMinimalDescription": {
+    "message": "Tanke, diskretne linije za lakšu vremensku crtu."
+  },
+  "kitBoldName": {
+    "message": "Podebljan"
+  },
+  "kitBoldDescription": {
+    "message": "Deblji obrisi za bolju vidljivost."
+  },
+  "kitSharpName": {
+    "message": "Oštar"
+  },
+  "kitSharpDescription": {
+    "message": "Kutasti simboli s tehničkijim dojmom."
+  },
+  "kitSoftName": {
+    "message": "Mekan"
+  },
+  "kitSoftDescription": {
+    "message": "Zaobljeni, prijateljski oblici s glatkim krivuljama."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "hvala. x će ovo koristiti za poboljšanje vaše vremenske crte"
+  },
+  "dismissFeedbackUndo": {
+    "message": "poništi"
+  },
+  "popupThemeLight": {
+    "message": "Dan"
+  },
+  "popupThemeDark": {
+    "message": "Noć"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Promijeni temu skočnog prozora"
+  }
+}

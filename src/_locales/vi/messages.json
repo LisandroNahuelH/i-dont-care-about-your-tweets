@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Tôi Không Quan Tâm Tweet Của Bạn Premium11: Chặn, Tắt Tiếng, Không Quan Tâm"
+  },
+  "extensionDescription": {
+    "message": "Thêm nút Chặn, Tắt tiếng và Không quan tâm vào mỗi bài đăng trên X.com."
+  },
+  "actionBlock": {
+    "message": "Chặn"
+  },
+  "actionBlockTitle": {
+    "message": "Chặn tác giả của bài đăng này"
+  },
+  "actionMute": {
+    "message": "Tắt tiếng"
+  },
+  "actionMuteTitle": {
+    "message": "Tắt tiếng tác giả của bài đăng này"
+  },
+  "actionDismiss": {
+    "message": "Không quan tâm"
+  },
+  "actionDismissTitle": {
+    "message": "Cho X biết bạn không quan tâm đến bài đăng này"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Bộ nút"
+  },
+  "popupSubtitle": {
+    "message": "Chọn bộ biểu tượng hiển thị trên mỗi bài đăng."
+  },
+  "popupReset": {
+    "message": "Đặt lại"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Xem trước bộ nút"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Các bộ nút có sẵn"
+  },
+  "kitClassicName": {
+    "message": "Cổ điển"
+  },
+  "kitClassicDescription": {
+    "message": "Bộ nút gốc."
+  },
+  "kitMinimalName": {
+    "message": "Tối giản"
+  },
+  "kitMinimalDescription": {
+    "message": "Đường nét mảnh, nhẹ nhàng cho dòng thời gian gọn hơn."
+  },
+  "kitBoldName": {
+    "message": "Đậm"
+  },
+  "kitBoldDescription": {
+    "message": "Đường viền dày hơn, dễ nhìn hơn."
+  },
+  "kitSharpName": {
+    "message": "Sắc nét"
+  },
+  "kitSharpDescription": {
+    "message": "Biểu tượng góc cạnh với cảm giác kỹ thuật hơn."
+  },
+  "kitSoftName": {
+    "message": "Mềm mại"
+  },
+  "kitSoftDescription": {
+    "message": "Hình dạng tròn, thân thiện với đường cong mượt mà."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "cảm ơn. x sẽ dùng thông tin này để cải thiện dòng thời gian của bạn"
+  },
+  "dismissFeedbackUndo": {
+    "message": "hoàn tác"
+  },
+  "popupThemeLight": {
+    "message": "Ngày"
+  },
+  "popupThemeDark": {
+    "message": "Đêm"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Chuyển giao diện cửa sổ bật lên"
+  }
+}

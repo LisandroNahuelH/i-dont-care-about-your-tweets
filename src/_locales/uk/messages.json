@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Мені Плювати На Ваші Твіти Premium11: Блок, Заглушити, Не Цікаво"
+  },
+  "extensionDescription": {
+    "message": "Додає кнопки «Заблокувати», «Заглушити» та «Не цікаво» до кожного поста на X.com."
+  },
+  "actionBlock": {
+    "message": "Заблокувати"
+  },
+  "actionBlockTitle": {
+    "message": "Заблокувати автора цього поста"
+  },
+  "actionMute": {
+    "message": "Заглушити"
+  },
+  "actionMuteTitle": {
+    "message": "Заглушити автора цього поста"
+  },
+  "actionDismiss": {
+    "message": "Не цікаво"
+  },
+  "actionDismissTitle": {
+    "message": "Повідомити X, що вам не цікавий цей пост"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Набір кнопок"
+  },
+  "popupSubtitle": {
+    "message": "Виберіть набір значків, що відображаються в кожному пості."
+  },
+  "popupReset": {
+    "message": "Скинути"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Попередній перегляд набору кнопок"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Доступні набори кнопок"
+  },
+  "kitClassicName": {
+    "message": "Класичний"
+  },
+  "kitClassicDescription": {
+    "message": "Оригінальний набір кнопок."
+  },
+  "kitMinimalName": {
+    "message": "Мінімальний"
+  },
+  "kitMinimalDescription": {
+    "message": "Тонкі, стримані лінії для легшої стрічки."
+  },
+  "kitBoldName": {
+    "message": "Жирний"
+  },
+  "kitBoldDescription": {
+    "message": "Товстіші контури з кращою видимістю."
+  },
+  "kitSharpName": {
+    "message": "Гострий"
+  },
+  "kitSharpDescription": {
+    "message": "Кутові символи з технічним настроєм."
+  },
+  "kitSoftName": {
+    "message": "М'який"
+  },
+  "kitSoftDescription": {
+    "message": "Округлі, дружні форми з плавними вигинами."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "дякуємо. x використає це для покращення вашої стрічки"
+  },
+  "dismissFeedbackUndo": {
+    "message": "скасувати"
+  },
+  "popupThemeLight": {
+    "message": "День"
+  },
+  "popupThemeDark": {
+    "message": "Ніч"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Перемкнути тему спливного вікна"
+  }
+}

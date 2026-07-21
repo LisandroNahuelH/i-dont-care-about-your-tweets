@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Saya Tak Kisah Tweet Anda Premium11: Sekat, Senyap, Tidak Berminat"
+  },
+  "extensionDescription": {
+    "message": "Menambah butang Sekat, Senyap dan Tidak berminat pada setiap siaran X.com."
+  },
+  "actionBlock": {
+    "message": "Sekat"
+  },
+  "actionBlockTitle": {
+    "message": "Sekat pengarang siaran ini"
+  },
+  "actionMute": {
+    "message": "Senyap"
+  },
+  "actionMuteTitle": {
+    "message": "Senyapkan pengarang siaran ini"
+  },
+  "actionDismiss": {
+    "message": "Tidak berminat"
+  },
+  "actionDismissTitle": {
+    "message": "Beritahu X bahawa anda tidak berminat dengan siaran ini"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Kit butang"
+  },
+  "popupSubtitle": {
+    "message": "Pilih set ikon yang dipaparkan pada setiap siaran."
+  },
+  "popupReset": {
+    "message": "Tetapkan semula"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Pratonton kit butang"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Kit butang tersedia"
+  },
+  "kitClassicName": {
+    "message": "Klasik"
+  },
+  "kitClassicDescription": {
+    "message": "Set butang asal."
+  },
+  "kitMinimalName": {
+    "message": "Ringkas"
+  },
+  "kitMinimalDescription": {
+    "message": "Garis nipis dan senyap untuk garis masa yang lebih ringan."
+  },
+  "kitBoldName": {
+    "message": "Tebal"
+  },
+  "kitBoldDescription": {
+    "message": "Garis luar lebih tebal dengan keterlihatan lebih kuat."
+  },
+  "kitSharpName": {
+    "message": "Tajam"
+  },
+  "kitSharpDescription": {
+    "message": "Simbol bersudut dengan rasa lebih teknikal."
+  },
+  "kitSoftName": {
+    "message": "Lembut"
+  },
+  "kitSoftDescription": {
+    "message": "Bentuk bulat dan mesra dengan lengkung licin."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "terima kasih. x akan gunakan ini untuk memperbaiki garis masa anda"
+  },
+  "dismissFeedbackUndo": {
+    "message": "buat asal"
+  },
+  "popupThemeLight": {
+    "message": "Siang"
+  },
+  "popupThemeDark": {
+    "message": "Malam"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Tukar tema popup"
+  }
+}

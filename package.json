@@ -1,0 +1,36 @@
+{
+  "name": "i-dont-care-about-your-tweets",
+  "version": "1.2.9",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "clean": "node tools/clean-dist.mjs",
+    "build:bundle": "esbuild src/content/index.ts --bundle --format=iife --platform=browser --target=chrome120 --outfile=dist/content.js && esbuild src/popup/index.ts --bundle --format=iife --platform=browser --target=chrome120 --outfile=dist/popup.js",
+    "build:copy": "node tools/copy-static.mjs",
+    "build": "npm run i18n:check && npm run i18n:audit && npm run i18n:audit-literals && npm run clean && npm run build:bundle && npm run build:copy",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint .",
+    "test": "npm run test:unit && npm run test:vitest",
+    "test:unit": "tsx tests/post-actions/normalizeText.test.ts && tsx tests/post-actions/matchesActionLabel.test.ts && tsx tests/post-actions/matchesDismissFeedbackCardText.test.ts && tsx tests/shared/button-kits.test.ts && tsx tests/popup/popup-theme.test.ts",
+    "test:vitest": "vitest run",
+    "i18n:bootstrap": "node tools/i18n/bootstrap-all-locales.mjs",
+    "i18n:check": "node tools/i18n/check-i18n.mjs && node tools/i18n/audit-title-case.mjs",
+    "i18n:audit": "node tools/i18n/audit-translations.mjs",
+    "i18n:audit-literals": "node tools/i18n/audit-literals.mjs",
+    "package:release": "node tools/package-release.mjs",
+    "verify": "npm run i18n:check && npm run i18n:audit && npm run i18n:audit-literals && npm run typecheck && npm run lint && npm run test && npm run build"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.23.0",
+    "@types/chrome": "^0.0.322",
+    "@types/node": "^24.5.2",
+    "@typescript-eslint/eslint-plugin": "^8.28.0",
+    "@typescript-eslint/parser": "^8.28.0",
+    "esbuild": "^0.25.1",
+    "eslint": "^9.23.0",
+    "happy-dom": "^20.0.10",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2",
+    "vitest": "^3.2.4"
+  }
+}

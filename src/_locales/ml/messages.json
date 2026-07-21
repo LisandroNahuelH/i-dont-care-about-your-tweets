@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "നിങ്ങളുടെ ട്വീറ്റുകൾ എനിക്ക് പ്രശ്നമല്ല Premium11: തടയുക, മ്യൂട്ട്"
+  },
+  "extensionDescription": {
+    "message": "ഓരോ X.com പോസ്റ്റിലും തടയുക, മ്യൂട്ട്, താൽപ്പര്യമില്ല ബട്ടണുകൾ ചേർക്കുന്നു."
+  },
+  "actionBlock": {
+    "message": "തടയുക"
+  },
+  "actionBlockTitle": {
+    "message": "ഈ പോസ്റ്റിന്റെ രചയിതാവിനെ തടയുക"
+  },
+  "actionMute": {
+    "message": "മ്യൂട്ട്"
+  },
+  "actionMuteTitle": {
+    "message": "ഈ പോസ്റ്റിന്റെ രചയിതാവിനെ മ്യൂട്ട് ചെയ്യുക"
+  },
+  "actionDismiss": {
+    "message": "താൽപ്പര്യമില്ല"
+  },
+  "actionDismissTitle": {
+    "message": "ഈ പോസ്റ്റിൽ നിങ്ങൾക്ക് താൽപ്പര്യമില്ലെന്ന് X-ന് അറിയിക്കുക"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "ബട്ടൺ കിറ്റ്"
+  },
+  "popupSubtitle": {
+    "message": "ഓരോ പോസ്റ്റിലും കാണിക്കുന്ന ഐക്കൺ സെറ്റ് തിരഞ്ഞെടുക്കുക."
+  },
+  "popupReset": {
+    "message": "പുനഃസജ്ജമാക്കുക"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "ബട്ടൺ കിറ്റ് പ്രിവ്യൂ"
+  },
+  "popupKitListAriaLabel": {
+    "message": "ലഭ്യമായ ബട്ടൺ കിറ്റുകൾ"
+  },
+  "kitClassicName": {
+    "message": "ക്ലാസിക്"
+  },
+  "kitClassicDescription": {
+    "message": "യഥാർത്ഥ ബട്ടൺ സെറ്റ്."
+  },
+  "kitMinimalName": {
+    "message": "മിനിമൽ"
+  },
+  "kitMinimalDescription": {
+    "message": "നേർത്ത, ശാന്തമായ വരകൾ ലഘുവായ ടൈംലൈനിനായി."
+  },
+  "kitBoldName": {
+    "message": "ബോൾഡ്"
+  },
+  "kitBoldDescription": {
+    "message": "കട്ടിയുള്ള ഔട്ട്‌ലൈനുകൾ കൂടുതൽ ദൃശ്യതയോടെ."
+  },
+  "kitSharpName": {
+    "message": "ഷാർപ്പ്"
+  },
+  "kitSharpDescription": {
+    "message": "കോണുള്ള ചിഹ്നങ്ങൾ കൂടുതൽ സാങ്കേതിക അനുഭവത്തോടെ."
+  },
+  "kitSoftName": {
+    "message": "സോഫ്റ്റ്"
+  },
+  "kitSoftDescription": {
+    "message": "വൃത്താകാരമായ, സൗഹൃദപരമായ ആകൃതികൾ മൃദുവായ വക്രരേഖകളോടെ."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "നന്ദി. x ഇത് നിങ്ങളുടെ ടൈംലൈൻ മെച്ചപ്പെടുത്താൻ ഉപയോഗിക്കും"
+  },
+  "dismissFeedbackUndo": {
+    "message": "പൂർവ്വസ്ഥിതിയിലാക്കുക"
+  },
+  "popupThemeLight": {
+    "message": "പകൽ"
+  },
+  "popupThemeDark": {
+    "message": "രാത്രി"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "പോപ്പ്അപ്പ് തീം മാറ്റുക"
+  }
+}

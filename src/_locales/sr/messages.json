@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Nije Me Briga Za Tvoje Tvitove Premium11: Blokiraj, Utišaj, Ne Zanima Me"
+  },
+  "extensionDescription": {
+    "message": "Додаје дугмад Блокирај, Утишај и Није ми интересантно на сваки пост на X.com."
+  },
+  "actionBlock": {
+    "message": "Блокирај"
+  },
+  "actionBlockTitle": {
+    "message": "Блокирај аутора овог поста"
+  },
+  "actionMute": {
+    "message": "Утишај"
+  },
+  "actionMuteTitle": {
+    "message": "Утишај аутора овог поста"
+  },
+  "actionDismiss": {
+    "message": "Није ми интересантно"
+  },
+  "actionDismissTitle": {
+    "message": "Реците X-у да вам овај пост није интересан"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Комплет дугмади"
+  },
+  "popupSubtitle": {
+    "message": "Изаберите скуп икона приказаних на сваком посту."
+  },
+  "popupReset": {
+    "message": "Ресетуј"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Преглед комплекта дугмади"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Доступни комплети дугмади"
+  },
+  "kitClassicName": {
+    "message": "Класичан"
+  },
+  "kitClassicDescription": {
+    "message": "Оригинални комплет дугмади."
+  },
+  "kitMinimalName": {
+    "message": "Минималан"
+  },
+  "kitMinimalDescription": {
+    "message": "Танке, ненаметљиве линије за лакшу временску линију."
+  },
+  "kitBoldName": {
+    "message": "Подебљан"
+  },
+  "kitBoldDescription": {
+    "message": "Дебљи контури са већом видљивошћу."
+  },
+  "kitSharpName": {
+    "message": "Оштар"
+  },
+  "kitSharpDescription": {
+    "message": "Угаони симболи са техничкијим изгледом."
+  },
+  "kitSoftName": {
+    "message": "Мекан"
+  },
+  "kitSoftDescription": {
+    "message": "Заобљени, пријатељски облици са глатким кривама."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "хвала. x ће ово користити да побољша вашу временску линију"
+  },
+  "dismissFeedbackUndo": {
+    "message": "опозови"
+  },
+  "popupThemeLight": {
+    "message": "Дан"
+  },
+  "popupThemeDark": {
+    "message": "Ноћ"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Промени тему искачућег прозора"
+  }
+}

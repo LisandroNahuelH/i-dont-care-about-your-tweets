@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "No Me Importan Tus Tuits Premium11: Bloquear, Silenciar Y No Me Interesa"
+  },
+  "extensionDescription": {
+    "message": "Agrega botones de Bloquear, Silenciar y No me interesa a cada post de X.com."
+  },
+  "actionBlock": {
+    "message": "Bloquear"
+  },
+  "actionBlockTitle": {
+    "message": "Bloquear al autor de este post"
+  },
+  "actionMute": {
+    "message": "Silenciar"
+  },
+  "actionMuteTitle": {
+    "message": "Silenciar al autor de este post"
+  },
+  "actionDismiss": {
+    "message": "No me interesa"
+  },
+  "actionDismissTitle": {
+    "message": "Indicarle a X que no te interesa este post"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Kit de botones"
+  },
+  "popupSubtitle": {
+    "message": "Elige el conjunto de iconos que se muestra en cada post."
+  },
+  "popupReset": {
+    "message": "Restablecer"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Vista previa del kit de botones"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Kits de botones disponibles"
+  },
+  "kitClassicName": {
+    "message": "Clásico"
+  },
+  "kitClassicDescription": {
+    "message": "El conjunto de botones original."
+  },
+  "kitMinimalName": {
+    "message": "Mínimo"
+  },
+  "kitMinimalDescription": {
+    "message": "Líneas finas y discretas para una cronología más ligera."
+  },
+  "kitBoldName": {
+    "message": "Negrita"
+  },
+  "kitBoldDescription": {
+    "message": "Contornos más gruesos con mayor visibilidad."
+  },
+  "kitSharpName": {
+    "message": "Anguloso"
+  },
+  "kitSharpDescription": {
+    "message": "Símbolos angulares con un estilo más técnico."
+  },
+  "kitSoftName": {
+    "message": "Suave"
+  },
+  "kitSoftDescription": {
+    "message": "Formas redondeadas y amigables con curvas suaves."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "gracias. x usará esto para mejorar tu cronología"
+  },
+  "dismissFeedbackUndo": {
+    "message": "deshacer"
+  },
+  "popupThemeLight": {
+    "message": "Modo día"
+  },
+  "popupThemeDark": {
+    "message": "Modo noche"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Cambiar tema del popup"
+  }
+}

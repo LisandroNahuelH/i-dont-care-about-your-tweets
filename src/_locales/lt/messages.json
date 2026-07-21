@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Man Nerūpi Jūsų Įrašai Premium11: Blokuoti, Nutildyti, Nedomina"
+  },
+  "extensionDescription": {
+    "message": "Prie kiekvieno X.com įrašo prideda mygtukus Blokuoti, Nutildyti ir Nedomina."
+  },
+  "actionBlock": {
+    "message": "Blokuoti"
+  },
+  "actionBlockTitle": {
+    "message": "Blokuoti šio įrašo autorių"
+  },
+  "actionMute": {
+    "message": "Nutildyti"
+  },
+  "actionMuteTitle": {
+    "message": "Nutildyti šio įrašo autorių"
+  },
+  "actionDismiss": {
+    "message": "Nedomina"
+  },
+  "actionDismissTitle": {
+    "message": "Praneškite X, kad šis įrašas jums neįdomus"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Mygtukų rinkinys"
+  },
+  "popupSubtitle": {
+    "message": "Pasirinkite kiekvieno įrašo piktogramų rinkinį."
+  },
+  "popupReset": {
+    "message": "Atkurti"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Mygtukų rinkinio peržiūra"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Galimi mygtukų rinkiniai"
+  },
+  "kitClassicName": {
+    "message": "Klasikinis"
+  },
+  "kitClassicDescription": {
+    "message": "Originalus mygtukų rinkinys."
+  },
+  "kitMinimalName": {
+    "message": "Minimalus"
+  },
+  "kitMinimalDescription": {
+    "message": "Plonos, tylios linijos lengvesnei juostai."
+  },
+  "kitBoldName": {
+    "message": "Ryškus"
+  },
+  "kitBoldDescription": {
+    "message": "Storesnės kontūro linijos su didesniu matomumu."
+  },
+  "kitSharpName": {
+    "message": "Aštrus"
+  },
+  "kitSharpDescription": {
+    "message": "Kampuoti simboliai su techniškesniu pojūčiu."
+  },
+  "kitSoftName": {
+    "message": "Švelnus"
+  },
+  "kitSoftDescription": {
+    "message": "Suapvalintos, draugiškos formos su glotniomis kreivėmis."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "ačiū. x naudos tai jūsų juostai tobulinti"
+  },
+  "dismissFeedbackUndo": {
+    "message": "atšaukti"
+  },
+  "popupThemeLight": {
+    "message": "Diena"
+  },
+  "popupThemeDark": {
+    "message": "Naktis"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Perjungti iššokusio lango temą"
+  }
+}

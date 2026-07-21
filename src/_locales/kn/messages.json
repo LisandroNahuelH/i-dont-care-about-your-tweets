@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "ನಿಮ್ಮ ಟ್ವೀಟ್‌ಗಳ ಬಗ್ಗೆ ನನಗೆ ಕಾಳಜಿ ಇಲ್ಲ Premium11: ಬ್ಲಾಕ್, ಮ್ಯೂಟ್"
+  },
+  "extensionDescription": {
+    "message": "ಪ್ರತಿ X.com ಪೋಸ್ಟ್‌ಗೆ ಬ್ಲಾಕ್, ಮ್ಯೂಟ್ ಮತ್ತು ಆಸಕ್ತಿ ಇಲ್ಲ ಬಟನ್‌ಗಳನ್ನು ಸೇರಿಸುತ್ತದೆ."
+  },
+  "actionBlock": {
+    "message": "ಬ್ಲಾಕ್"
+  },
+  "actionBlockTitle": {
+    "message": "ಈ ಪೋಸ್ಟ್‌ನ ಲೇಖಕರನ್ನು ಬ್ಲಾಕ್ ಮಾಡಿ"
+  },
+  "actionMute": {
+    "message": "ಮ್ಯೂಟ್"
+  },
+  "actionMuteTitle": {
+    "message": "ಈ ಪೋಸ್ಟ್‌ನ ಲೇಖಕರನ್ನು ಮ್ಯೂಟ್ ಮಾಡಿ"
+  },
+  "actionDismiss": {
+    "message": "ಆಸಕ್ತಿ ಇಲ್ಲ"
+  },
+  "actionDismissTitle": {
+    "message": "ಈ ಪೋಸ್ಟ್‌ಗೆ ನಿಮಗೆ ಆಸಕ್ತಿ ಇಲ್ಲ ಎಂದು X ಗೆ ತಿಳಿಸಿ"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "ಬಟನ್ ಕಿಟ್"
+  },
+  "popupSubtitle": {
+    "message": "ಪ್ರತಿ ಪೋಸ್ಟ್‌ನಲ್ಲಿ ತೋರಿಸುವ ಐಕಾನ್ ಸೆಟ್ ಆಯ್ಕೆಮಾಡಿ."
+  },
+  "popupReset": {
+    "message": "ಮರುಹೊಂದಿಸಿ"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "ಬಟನ್ ಕಿಟ್ ಪೂರ್ವವೀಕ್ಷಣೆ"
+  },
+  "popupKitListAriaLabel": {
+    "message": "ಲಭ್ಯವಿರುವ ಬಟನ್ ಕಿಟ್‌ಗಳು"
+  },
+  "kitClassicName": {
+    "message": "ಕ್ಲಾಸಿಕ್"
+  },
+  "kitClassicDescription": {
+    "message": "ಮೂಲ ಬಟನ್ ಸೆಟ್."
+  },
+  "kitMinimalName": {
+    "message": "ಮಿನಿಮಲ್"
+  },
+  "kitMinimalDescription": {
+    "message": "ತೆಳು, ಶಾಂತ ರೇಖೆಗಳು ಹಗುರ ಟೈಮ್‌ಲೈನ್‌ಗಾಗಿ."
+  },
+  "kitBoldName": {
+    "message": "ಬೋಲ್ಡ್"
+  },
+  "kitBoldDescription": {
+    "message": "ದಪ್ಪ ಔಟ್‌ಲೈನ್‌ಗಳು ಹೆಚ್ಚು ಗೋಚರತೆಯೊಂದಿಗೆ."
+  },
+  "kitSharpName": {
+    "message": "ಶಾರ್ಪ್"
+  },
+  "kitSharpDescription": {
+    "message": "ಕೋನದ ಸಂಕೇತಗಳು ಹೆಚ್ಚು ತಾಂತ್ರಿಕ ಅನುಭವದೊಂದಿಗೆ."
+  },
+  "kitSoftName": {
+    "message": "ಸಾಫ್ಟ್"
+  },
+  "kitSoftDescription": {
+    "message": "ಉಂಡಾದ, ಸ್ನೇಹಪೂರ್ಣ ಆಕಾರಗಳು ಮೃದುವಾದ ವಕ್ರರೇಖೆಗಳೊಂದಿಗೆ."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "ಧನ್ಯವಾದಗಳು. x ಇದನ್ನು ನಿಮ್ಮ ಟೈಮ್‌ಲೈನ್ ಸುಧಾರಿಸಲು ಬಳಸುತ್ತದೆ"
+  },
+  "dismissFeedbackUndo": {
+    "message": "ರದ್ದುಮಾಡಿ"
+  },
+  "popupThemeLight": {
+    "message": "ಹಗಲು"
+  },
+  "popupThemeDark": {
+    "message": "ರಾತ್ರಿ"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "ಪಾಪ್ಅಪ್ ಥೀಮ್ ಬದಲಿಸಿ"
+  }
+}

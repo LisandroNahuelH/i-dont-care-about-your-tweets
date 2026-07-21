@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "我不在乎你的推文 Premium11: 屏蔽、静音、不感兴趣"
+  },
+  "extensionDescription": {
+    "message": "为每条 X.com 帖子添加屏蔽、将对方静音和不感兴趣按钮。"
+  },
+  "actionBlock": {
+    "message": "屏蔽"
+  },
+  "actionBlockTitle": {
+    "message": "屏蔽此帖作者"
+  },
+  "actionMute": {
+    "message": "将对方静音"
+  },
+  "actionMuteTitle": {
+    "message": "将此帖作者静音"
+  },
+  "actionDismiss": {
+    "message": "不感兴趣"
+  },
+  "actionDismissTitle": {
+    "message": "告诉 X 你对这条帖子不感兴趣"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "按钮套件"
+  },
+  "popupSubtitle": {
+    "message": "选择每条帖子上显示的图标集。"
+  },
+  "popupReset": {
+    "message": "重置"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "按钮套件预览"
+  },
+  "popupKitListAriaLabel": {
+    "message": "可用的按钮套件"
+  },
+  "kitClassicName": {
+    "message": "经典"
+  },
+  "kitClassicDescription": {
+    "message": "原始按钮集。"
+  },
+  "kitMinimalName": {
+    "message": "极简"
+  },
+  "kitMinimalDescription": {
+    "message": "纤细低调的线条，让时间线更轻盈。"
+  },
+  "kitBoldName": {
+    "message": "粗体"
+  },
+  "kitBoldDescription": {
+    "message": "更粗的线条轮廓，辨识度更高。"
+  },
+  "kitSharpName": {
+    "message": "锐利"
+  },
+  "kitSharpDescription": {
+    "message": "棱角分明的符号，更具技术感。"
+  },
+  "kitSoftName": {
+    "message": "柔和"
+  },
+  "kitSoftDescription": {
+    "message": "圆润友好的造型，线条流畅柔和。"
+  },
+  "dismissFeedbackThankYou": {
+    "message": "谢谢。x 将使用此信息改进你的时间线"
+  },
+  "dismissFeedbackUndo": {
+    "message": "撤消"
+  },
+  "popupThemeLight": {
+    "message": "日间"
+  },
+  "popupThemeDark": {
+    "message": "夜间"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "切换弹出窗口主题"
+  }
+}

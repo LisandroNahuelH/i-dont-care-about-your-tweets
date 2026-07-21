@@ -1,0 +1,269 @@
+{
+  "am": {
+    "popupThemeLight": "ቀን",
+    "popupThemeDark": "ሌሊት",
+    "popupThemeToggleAriaLabel": "የፖፕአፕ ገጽታ ቀይር"
+  },
+  "ar": {
+    "popupThemeLight": "نهار",
+    "popupThemeDark": "ليل",
+    "popupThemeToggleAriaLabel": "تبديل سمة النافذة المنبثقة"
+  },
+  "bg": {
+    "popupThemeLight": "Ден",
+    "popupThemeDark": "Нощ",
+    "popupThemeToggleAriaLabel": "Превключване на темата на изскачащия прозорец"
+  },
+  "bn": {
+    "popupThemeLight": "দিন",
+    "popupThemeDark": "রাত",
+    "popupThemeToggleAriaLabel": "পপআপ থিম পরিবর্তন করুন"
+  },
+  "ca": {
+    "kitMinimalName": "Mínim",
+    "popupThemeLight": "Dia",
+    "popupThemeDark": "Nit",
+    "popupThemeToggleAriaLabel": "Canvia el tema del popup"
+  },
+  "cs": {
+    "popupThemeLight": "Den",
+    "popupThemeDark": "Noc",
+    "popupThemeToggleAriaLabel": "Přepnout motiv vyskakovacího okna"
+  },
+  "da": {
+    "kitMinimalName": "Minimalt",
+    "popupThemeLight": "Dag",
+    "popupThemeDark": "Nat",
+    "popupThemeToggleAriaLabel": "Skift popup-tema"
+  },
+  "de": {
+    "kitMinimalName": "Minimalistisch",
+    "popupThemeLight": "Tag",
+    "popupThemeDark": "Nacht",
+    "popupThemeToggleAriaLabel": "Popup-Design umschalten"
+  },
+  "el": {
+    "kitMinimalName": "Λιτό",
+    "popupThemeLight": "Ημέρα",
+    "popupThemeDark": "Νύχτα",
+    "popupThemeToggleAriaLabel": "Εναλλαγή θέματος αναδυόμενου παραθύρου"
+  },
+  "es": {
+    "kitMinimalName": "Mínimo"
+  },
+  "et": {
+    "popupThemeLight": "Päev",
+    "popupThemeDark": "Öö",
+    "popupThemeToggleAriaLabel": "Vaheta hüpikakna teemat"
+  },
+  "fa": {
+    "popupThemeLight": "روز",
+    "popupThemeDark": "شب",
+    "popupThemeToggleAriaLabel": "تغییر پوسته پنجره"
+  },
+  "fi": {
+    "popupThemeLight": "Päivä",
+    "popupThemeDark": "Yö",
+    "popupThemeToggleAriaLabel": "Vaihda ponnahdusikkunan teemaa"
+  },
+  "fil": {
+    "popupHeading": "Set ng button",
+    "kitClassicName": "Klasiko",
+    "kitMinimalName": "Payak",
+    "kitBoldName": "Makapal",
+    "kitSharpName": "Matalas",
+    "kitSoftName": "Malambot",
+    "popupThemeLight": "Araw",
+    "popupThemeDark": "Gabi",
+    "popupThemeToggleAriaLabel": "Palitan ang tema ng popup"
+  },
+  "fr": {
+    "kitMinimalName": "Minimaliste",
+    "popupThemeLight": "Jour",
+    "popupThemeDark": "Nuit",
+    "popupThemeToggleAriaLabel": "Changer le thème du popup"
+  },
+  "gu": {
+    "popupThemeLight": "દિવસ",
+    "popupThemeDark": "રાત",
+    "popupThemeToggleAriaLabel": "પોપઅપ થીમ બદલો"
+  },
+  "he": {
+    "popupThemeLight": "יום",
+    "popupThemeDark": "לילה",
+    "popupThemeToggleAriaLabel": "החלפת ערכת הנושא של החלון הקופץ"
+  },
+  "hi": {
+    "popupThemeLight": "दिन",
+    "popupThemeDark": "रात",
+    "popupThemeToggleAriaLabel": "पॉपअप थीम बदलें"
+  },
+  "hr": {
+    "popupThemeLight": "Dan",
+    "popupThemeDark": "Noć",
+    "popupThemeToggleAriaLabel": "Promijeni temu skočnog prozora"
+  },
+  "hu": {
+    "popupThemeLight": "Nappal",
+    "popupThemeDark": "Éjszaka",
+    "popupThemeToggleAriaLabel": "Felugró ablak témájának váltása"
+  },
+  "id": {
+    "kitMinimalName": "Ringkas",
+    "popupThemeLight": "Siang",
+    "popupThemeDark": "Malam",
+    "popupThemeToggleAriaLabel": "Ganti tema popup"
+  },
+  "it": {
+    "popupThemeLight": "Giorno",
+    "popupThemeDark": "Notte",
+    "popupThemeToggleAriaLabel": "Cambia tema del popup"
+  },
+  "ja": {
+    "popupThemeLight": "昼",
+    "popupThemeDark": "夜",
+    "popupThemeToggleAriaLabel": "ポップアップのテーマを切り替え"
+  },
+  "kn": {
+    "popupThemeLight": "ಹಗಲು",
+    "popupThemeDark": "ರಾತ್ರಿ",
+    "popupThemeToggleAriaLabel": "ಪಾಪ್ಅಪ್ ಥೀಮ್ ಬದಲಿಸಿ"
+  },
+  "ko": {
+    "popupThemeLight": "낮",
+    "popupThemeDark": "밤",
+    "popupThemeToggleAriaLabel": "팝업 테마 전환"
+  },
+  "lt": {
+    "popupThemeLight": "Diena",
+    "popupThemeDark": "Naktis",
+    "popupThemeToggleAriaLabel": "Perjungti iššokusio lango temą"
+  },
+  "lv": {
+    "popupThemeLight": "Diena",
+    "popupThemeDark": "Nakts",
+    "popupThemeToggleAriaLabel": "Pārslēgt uznirstošā loga motīvu"
+  },
+  "ml": {
+    "popupThemeLight": "പകൽ",
+    "popupThemeDark": "രാത്രി",
+    "popupThemeToggleAriaLabel": "പോപ്പ്അപ്പ് തീം മാറ്റുക"
+  },
+  "mr": {
+    "popupThemeLight": "दिवस",
+    "popupThemeDark": "रात्र",
+    "popupThemeToggleAriaLabel": "पॉपअप थीम बदला"
+  },
+  "ms": {
+    "kitMinimalName": "Ringkas",
+    "popupThemeLight": "Siang",
+    "popupThemeDark": "Malam",
+    "popupThemeToggleAriaLabel": "Tukar tema popup"
+  },
+  "nl": {
+    "popupThemeLight": "Dag",
+    "popupThemeDark": "Nacht",
+    "popupThemeToggleAriaLabel": "Popup-thema wisselen"
+  },
+  "no": {
+    "kitMinimalName": "Minimalistisk",
+    "popupThemeLight": "Dag",
+    "popupThemeDark": "Natt",
+    "popupThemeToggleAriaLabel": "Bytt popup-tema"
+  },
+  "pl": {
+    "popupThemeLight": "Dzień",
+    "popupThemeDark": "Noc",
+    "popupThemeToggleAriaLabel": "Przełącz motyw wyskakującego okna"
+  },
+  "pt_BR": {
+    "kitMinimalName": "Mínimo",
+    "popupThemeLight": "Dia",
+    "popupThemeDark": "Noite",
+    "popupThemeToggleAriaLabel": "Alternar tema do popup"
+  },
+  "pt_PT": {
+    "kitMinimalName": "Mínimo",
+    "popupThemeLight": "Dia",
+    "popupThemeDark": "Noite",
+    "popupThemeToggleAriaLabel": "Alternar tema do popup"
+  },
+  "ro": {
+    "kitMinimalName": "Minimalist",
+    "popupThemeLight": "Zi",
+    "popupThemeDark": "Noapte",
+    "popupThemeToggleAriaLabel": "Comută tema ferestrei popup"
+  },
+  "ru": {
+    "popupThemeLight": "День",
+    "popupThemeDark": "Ночь",
+    "popupThemeToggleAriaLabel": "Переключить тему всплывающего окна"
+  },
+  "sk": {
+    "popupThemeLight": "Deň",
+    "popupThemeDark": "Noc",
+    "popupThemeToggleAriaLabel": "Prepnúť motív vyskakovacieho okna"
+  },
+  "sl": {
+    "popupThemeLight": "Dan",
+    "popupThemeDark": "Noč",
+    "popupThemeToggleAriaLabel": "Preklopi temo pojavnega okna"
+  },
+  "sr": {
+    "popupThemeLight": "Дан",
+    "popupThemeDark": "Ноћ",
+    "popupThemeToggleAriaLabel": "Промени тему искачућег прозора"
+  },
+  "sv": {
+    "kitMinimalName": "Minimalistisk",
+    "popupThemeLight": "Dag",
+    "popupThemeDark": "Natt",
+    "popupThemeToggleAriaLabel": "Byt popup-tema"
+  },
+  "sw": {
+    "popupThemeLight": "Mchana",
+    "popupThemeDark": "Usiku",
+    "popupThemeToggleAriaLabel": "Badilisha mandhari ya kidirisha ibukizi"
+  },
+  "ta": {
+    "popupThemeLight": "பகல்",
+    "popupThemeDark": "இரவு",
+    "popupThemeToggleAriaLabel": "பாப்அப் தீமை மாற்று"
+  },
+  "te": {
+    "popupThemeLight": "పగలు",
+    "popupThemeDark": "రాత్రి",
+    "popupThemeToggleAriaLabel": "పాపప్ థీమ్ మార్చు"
+  },
+  "th": {
+    "popupThemeLight": "กลางวัน",
+    "popupThemeDark": "กลางคืน",
+    "popupThemeToggleAriaLabel": "สลับธีมป๊อปอัป"
+  },
+  "tr": {
+    "kitMinimalName": "Sade",
+    "popupThemeLight": "Gündüz",
+    "popupThemeDark": "Gece",
+    "popupThemeToggleAriaLabel": "Açılır pencere temasını değiştir"
+  },
+  "uk": {
+    "popupThemeLight": "День",
+    "popupThemeDark": "Ніч",
+    "popupThemeToggleAriaLabel": "Перемкнути тему спливного вікна"
+  },
+  "vi": {
+    "popupThemeLight": "Ngày",
+    "popupThemeDark": "Đêm",
+    "popupThemeToggleAriaLabel": "Chuyển giao diện cửa sổ bật lên"
+  },
+  "zh_CN": {
+    "popupThemeLight": "日间",
+    "popupThemeDark": "夜间",
+    "popupThemeToggleAriaLabel": "切换弹出窗口主题"
+  },
+  "zh_TW": {
+    "popupThemeLight": "日間",
+    "popupThemeDark": "夜間",
+    "popupThemeToggleAriaLabel": "切換彈出視窗主題"
+  }
+}

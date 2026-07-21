@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Não Ligo Pros Seus Posts Premium11: Bloquear, Silenciar, Não Interessa"
+  },
+  "extensionDescription": {
+    "message": "Adiciona os botões Bloquear, Silenciar e Não tenho interesse em cada publicação do X.com."
+  },
+  "actionBlock": {
+    "message": "Bloquear"
+  },
+  "actionBlockTitle": {
+    "message": "Bloquear o autor desta publicação"
+  },
+  "actionMute": {
+    "message": "Silenciar"
+  },
+  "actionMuteTitle": {
+    "message": "Silenciar o autor desta publicação"
+  },
+  "actionDismiss": {
+    "message": "Não tenho interesse"
+  },
+  "actionDismissTitle": {
+    "message": "Diga ao X que você não tem interesse nesta publicação"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Kit de botões"
+  },
+  "popupSubtitle": {
+    "message": "Escolha o conjunto de ícones exibido em cada publicação."
+  },
+  "popupReset": {
+    "message": "Redefinir"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Pré-visualização do kit de botões"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Kits de botões disponíveis"
+  },
+  "kitClassicName": {
+    "message": "Clássico"
+  },
+  "kitClassicDescription": {
+    "message": "O conjunto de botões original."
+  },
+  "kitMinimalName": {
+    "message": "Mínimo"
+  },
+  "kitMinimalDescription": {
+    "message": "Linhas finas e discretas para uma timeline mais leve."
+  },
+  "kitBoldName": {
+    "message": "Negrito"
+  },
+  "kitBoldDescription": {
+    "message": "Contornos mais grossos com maior visibilidade."
+  },
+  "kitSharpName": {
+    "message": "Afiado"
+  },
+  "kitSharpDescription": {
+    "message": "Símbolos angulares com um visual mais técnico."
+  },
+  "kitSoftName": {
+    "message": "Suave"
+  },
+  "kitSoftDescription": {
+    "message": "Formas arredondadas e amigáveis com curvas suaves."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "obrigado. o x usará isso para melhorar sua timeline"
+  },
+  "dismissFeedbackUndo": {
+    "message": "desfazer"
+  },
+  "popupThemeLight": {
+    "message": "Dia"
+  },
+  "popupThemeDark": {
+    "message": "Noite"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Alternar tema do popup"
+  }
+}

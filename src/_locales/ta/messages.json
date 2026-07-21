@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "உங்கள் ட்வீட்களைப் பற்றி எனக்குக் கவலை இல்லை Premium11: தடு, முடக்கு"
+  },
+  "extensionDescription": {
+    "message": "ஒவ்வொரு X.com பதிவிலும் தடு, முடக்கு மற்றும் ஆர்வமில்லை பொத்தான்களைச் சேர்க்கிறது."
+  },
+  "actionBlock": {
+    "message": "தடு"
+  },
+  "actionBlockTitle": {
+    "message": "இந்தப் பதிவின் ஆசிரியரைத் தடு"
+  },
+  "actionMute": {
+    "message": "முடக்கு"
+  },
+  "actionMuteTitle": {
+    "message": "இந்தப் பதிவின் ஆசிரியரை முடக்கு"
+  },
+  "actionDismiss": {
+    "message": "ஆர்வமில்லை"
+  },
+  "actionDismissTitle": {
+    "message": "இந்தப் பதிவில் உங்களுக்கு ஆர்வமில்லை என்று X-க்குத் தெரிவிக்கவும்"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "பொத்தான் தொகுப்பு"
+  },
+  "popupSubtitle": {
+    "message": "ஒவ்வொரு பதிவிலும் காட்டப்படும் ஐகான் தொகுப்பைத் தேர்ந்தெடுக்கவும்."
+  },
+  "popupReset": {
+    "message": "மீட்டமை"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "பொத்தான் தொகுப்பு முன்னோட்டம்"
+  },
+  "popupKitListAriaLabel": {
+    "message": "கிடைக்கும் பொத்தான் தொகுப்புகள்"
+  },
+  "kitClassicName": {
+    "message": "கிளாசிக்"
+  },
+  "kitClassicDescription": {
+    "message": "அசல் பொத்தான் தொகுப்பு."
+  },
+  "kitMinimalName": {
+    "message": "மினிமல்"
+  },
+  "kitMinimalDescription": {
+    "message": "மெல்லிய, அமைதியான கோடுகள் லேசான காலக்கோட்டுக்கு."
+  },
+  "kitBoldName": {
+    "message": "தடித்த"
+  },
+  "kitBoldDescription": {
+    "message": "வலுவான தெரிவுநிலையுடன் தடித்த வரையறைகள்."
+  },
+  "kitSharpName": {
+    "message": "கூர்மையான"
+  },
+  "kitSharpDescription": {
+    "message": "தொழில்நுட்ப உணர்வுடன் கோண அடையாளங்கள்."
+  },
+  "kitSoftName": {
+    "message": "மென்மையான"
+  },
+  "kitSoftDescription": {
+    "message": "வட்டமான, நட்புரீதியான வடிவங்கள் மென்மையான வளைவுகளுடன்."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "நன்றி. x உங்கள் காலக்கோட்டை மேம்படுத்த இதைப் பயன்படுத்தும்"
+  },
+  "dismissFeedbackUndo": {
+    "message": "செயல்தவிர்"
+  },
+  "popupThemeLight": {
+    "message": "பகல்"
+  },
+  "popupThemeDark": {
+    "message": "இரவு"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "பாப்அப் தீமை மாற்று"
+  }
+}

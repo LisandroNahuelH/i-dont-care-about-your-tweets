@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "לא אכפת לי מהציוצים שלך Premium11: חסימה, השתקה, לא מעוניין"
+  },
+  "extensionDescription": {
+    "message": "מוסיף כפתורי חסימה, השתקה ולא מעוניין לכל פוסט ב-X.com."
+  },
+  "actionBlock": {
+    "message": "חסימה"
+  },
+  "actionBlockTitle": {
+    "message": "חסום את מחבר הפוסט הזה"
+  },
+  "actionMute": {
+    "message": "השתקה"
+  },
+  "actionMuteTitle": {
+    "message": "השתק את מחבר הפוסט הזה"
+  },
+  "actionDismiss": {
+    "message": "לא מעוניין"
+  },
+  "actionDismissTitle": {
+    "message": "ספר ל-X שאינך מעוניין בפוסט הזה"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "ערכת כפתורים"
+  },
+  "popupSubtitle": {
+    "message": "בחר את ערכת האייקונים המוצגת בכל פוסט."
+  },
+  "popupReset": {
+    "message": "איפוס"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "תצוגה מקדימה של ערכת הכפתורים"
+  },
+  "popupKitListAriaLabel": {
+    "message": "ערכות כפתורים זמינות"
+  },
+  "kitClassicName": {
+    "message": "קלאסי"
+  },
+  "kitClassicDescription": {
+    "message": "ערכת הכפתורים המקורית."
+  },
+  "kitMinimalName": {
+    "message": "מינימלי"
+  },
+  "kitMinimalDescription": {
+    "message": "קווים דקים ושקטים לציר זמן קליל יותר."
+  },
+  "kitBoldName": {
+    "message": "מודגש"
+  },
+  "kitBoldDescription": {
+    "message": "קווי מתאר עבים יותר לנראות טובה יותר."
+  },
+  "kitSharpName": {
+    "message": "חד"
+  },
+  "kitSharpDescription": {
+    "message": "סמלים זוויתיים עם תחושה טכנית יותר."
+  },
+  "kitSoftName": {
+    "message": "רך"
+  },
+  "kitSoftDescription": {
+    "message": "צורות מעוגלות וידידותיות עם עיקולים חלקים."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "תודה. x ישתמש בזה כדי לשפר את ציר הזמן שלך"
+  },
+  "dismissFeedbackUndo": {
+    "message": "בטל"
+  },
+  "popupThemeLight": {
+    "message": "יום"
+  },
+  "popupThemeDark": {
+    "message": "לילה"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "החלפת ערכת הנושא של החלון הקופץ"
+  }
+}

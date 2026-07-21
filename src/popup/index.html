@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title></title>
+    <link rel="stylesheet" href="./popup.css" />
+  </head>
+  <body>
+    <main class="popup-shell">
+      <header class="popup-header">
+        <div>
+          <h1 data-role="popup-heading"></h1>
+          <p data-role="popup-subtitle"></p>
+        </div>
+        <div class="popup-header-actions">
+          <button class="theme-toggle-button" type="button" data-action="toggle-theme" aria-pressed="true">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M12 5.25V3.5M12 20.5v-1.75M18.75 12h1.75M3.5 12h1.75M16.77 7.23l1.24-1.24M5.99 18.01l1.24-1.24M16.77 16.77l1.24 1.24M5.99 5.99l1.24 1.24M12 8a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9" />
+            </svg>
+          </button>
+          <button class="reset-button" type="button" data-action="reset"></button>
+        </div>
+      </header>
+
+      <section class="preview" data-role="preview">
+        <div class="preview-bar" data-role="preview-bar"></div>
+      </section>
+
+      <section class="kit-list" data-role="kit-list"></section>
+    </main>
+
+    <script src="./popup.js"></script>
+  </body>
+</html>

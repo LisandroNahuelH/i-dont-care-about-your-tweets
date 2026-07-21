@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Nem Érdekelnek A Tweetjeid Premium11: Letiltás, Némítás, Nem Érdekel"
+  },
+  "extensionDescription": {
+    "message": "Blokkolás, Némítás és Nem érdekel gombokat ad minden X.com-bejegyzéshez."
+  },
+  "actionBlock": {
+    "message": "Blokkolás"
+  },
+  "actionBlockTitle": {
+    "message": "A bejegyzés szerzőjének blokkolása"
+  },
+  "actionMute": {
+    "message": "Némítás"
+  },
+  "actionMuteTitle": {
+    "message": "A bejegyzés szerzőjének némítása"
+  },
+  "actionDismiss": {
+    "message": "Nem érdekel"
+  },
+  "actionDismissTitle": {
+    "message": "Jelezze az X-nek, hogy nem érdekli ez a bejegyzés"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Gombkészlet"
+  },
+  "popupSubtitle": {
+    "message": "Válassza ki az egyes bejegyzéseken megjelenő ikonkészletet."
+  },
+  "popupReset": {
+    "message": "Visszaállítás"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Gombkészlet előnézete"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Elérhető gombkészletek"
+  },
+  "kitClassicName": {
+    "message": "Klasszikus"
+  },
+  "kitClassicDescription": {
+    "message": "Az eredeti gombkészlet."
+  },
+  "kitMinimalName": {
+    "message": "Minimalista"
+  },
+  "kitMinimalDescription": {
+    "message": "Vékony, visszafogott vonalak a könnyebb idővonalhoz."
+  },
+  "kitBoldName": {
+    "message": "Félkövér"
+  },
+  "kitBoldDescription": {
+    "message": "Vastagabb körvonalak erősebb láthatósággal."
+  },
+  "kitSharpName": {
+    "message": "Éles"
+  },
+  "kitSharpDescription": {
+    "message": "Szögletes szimbólumok technikusabb hatással."
+  },
+  "kitSoftName": {
+    "message": "Lágy"
+  },
+  "kitSoftDescription": {
+    "message": "Lekerekített, barátságos formák sima ívekkel."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "köszönjük. az x ezt használja majd az idővonalad javításához"
+  },
+  "dismissFeedbackUndo": {
+    "message": "visszavonás"
+  },
+  "popupThemeLight": {
+    "message": "Nappal"
+  },
+  "popupThemeDark": {
+    "message": "Éjszaka"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Felugró ablak témájának váltása"
+  }
+}

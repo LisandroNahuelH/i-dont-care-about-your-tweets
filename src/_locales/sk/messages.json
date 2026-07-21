@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Je Mi Jedno O Vaše Tweety Premium11: Blokovať, Stlmiť, Nezaujíma Ma"
+  },
+  "extensionDescription": {
+    "message": "Pridáva k jednotlivým príspevkom na X.com tlačidlá Blokovať, Stíšiť a Nemám záujem."
+  },
+  "actionBlock": {
+    "message": "Blokovať"
+  },
+  "actionBlockTitle": {
+    "message": "Blokovať autora tohto príspevku"
+  },
+  "actionMute": {
+    "message": "Stíšiť"
+  },
+  "actionMuteTitle": {
+    "message": "Stíšiť autora tohto príspevku"
+  },
+  "actionDismiss": {
+    "message": "Nemám záujem"
+  },
+  "actionDismissTitle": {
+    "message": "Povedzte X, že nemáte záujem o tento príspevok"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Sada tlačidiel"
+  },
+  "popupSubtitle": {
+    "message": "Vyberte súbor ikon zobrazených pri každom príspevku."
+  },
+  "popupReset": {
+    "message": "Obnoviť"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Náhľad sady tlačidiel"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Dostupné sady tlačidiel"
+  },
+  "kitClassicName": {
+    "message": "Klasická"
+  },
+  "kitClassicDescription": {
+    "message": "Pôvodná sada tlačidiel."
+  },
+  "kitMinimalName": {
+    "message": "Minimálna"
+  },
+  "kitMinimalDescription": {
+    "message": "Tenké, nenápadné čiary pre ľahšiu časovú os."
+  },
+  "kitBoldName": {
+    "message": "Tučná"
+  },
+  "kitBoldDescription": {
+    "message": "Hrubšie obrysy so silnejšou viditeľnosťou."
+  },
+  "kitSharpName": {
+    "message": "Ostrá"
+  },
+  "kitSharpDescription": {
+    "message": "Uhlové symboly s technickejším dojmom."
+  },
+  "kitSoftName": {
+    "message": "Jemná"
+  },
+  "kitSoftDescription": {
+    "message": "Zaoblené, priateľské tvary s hladkými krivkami."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "ďakujeme. x to použije na vylepšenie vašej časovej osi"
+  },
+  "dismissFeedbackUndo": {
+    "message": "vrátiť"
+  },
+  "popupThemeLight": {
+    "message": "Deň"
+  },
+  "popupThemeDark": {
+    "message": "Noc"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Prepnúť motív vyskakovacieho okna"
+  }
+}

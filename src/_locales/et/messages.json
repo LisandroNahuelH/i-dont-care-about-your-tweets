@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Mul On Ükskõik Sinu Säutsudest Premium11: Blokeeri, Vaigista, Ei Huvita"
+  },
+  "extensionDescription": {
+    "message": "Lisab igale X.com-i postitusele nupud Blokeeri, Vaigista ja Ei huvita."
+  },
+  "actionBlock": {
+    "message": "Blokeeri"
+  },
+  "actionBlockTitle": {
+    "message": "Blokeeri selle postituse autor"
+  },
+  "actionMute": {
+    "message": "Vaigista"
+  },
+  "actionMuteTitle": {
+    "message": "Vaigista selle postituse autor"
+  },
+  "actionDismiss": {
+    "message": "Ei huvita"
+  },
+  "actionDismissTitle": {
+    "message": "Anna X-ile teada, et see postitus sind ei huvita"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Nupukomplekt"
+  },
+  "popupSubtitle": {
+    "message": "Vali ikoonikomplekt, mida kuvatakse igal postitusel."
+  },
+  "popupReset": {
+    "message": "Lähtesta"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Nupukomplekti eelvaade"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Saadaolevad nupukomplektid"
+  },
+  "kitClassicName": {
+    "message": "Klassikaline"
+  },
+  "kitClassicDescription": {
+    "message": "Algne nupukomplekt."
+  },
+  "kitMinimalName": {
+    "message": "Minimaalne"
+  },
+  "kitMinimalDescription": {
+    "message": "Peenikesed, vaiksed jooned kergema ajajoone jaoks."
+  },
+  "kitBoldName": {
+    "message": "Julge"
+  },
+  "kitBoldDescription": {
+    "message": "Paksemad piirjooned suurema nähtavusega."
+  },
+  "kitSharpName": {
+    "message": "Terav"
+  },
+  "kitSharpDescription": {
+    "message": "Nurgelised sümbolid tehnilisema tundega."
+  },
+  "kitSoftName": {
+    "message": "Pehme"
+  },
+  "kitSoftDescription": {
+    "message": "Ümarad, sõbralikud kujud sujuvate kurvidega."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "täname. x kasutab seda sinu ajajoona parandamiseks"
+  },
+  "dismissFeedbackUndo": {
+    "message": "võta tagasi"
+  },
+  "popupThemeLight": {
+    "message": "Päev"
+  },
+  "popupThemeDark": {
+    "message": "Öö"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Vaheta hüpikakna teemat"
+  }
+}

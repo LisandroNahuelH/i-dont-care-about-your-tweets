@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "En Välitä Twiiteistäsi Premium11: Estä, Mykistä, Ei Kiinnosta"
+  },
+  "extensionDescription": {
+    "message": "Lisää Estä-, Mykistä- ja En ole kiinnostunut -painikkeet jokaiseen X.com-julkaisuun."
+  },
+  "actionBlock": {
+    "message": "Estä"
+  },
+  "actionBlockTitle": {
+    "message": "Estä tämän julkaisun tekijä"
+  },
+  "actionMute": {
+    "message": "Mykistä"
+  },
+  "actionMuteTitle": {
+    "message": "Mykistä tämän julkaisun tekijä"
+  },
+  "actionDismiss": {
+    "message": "En ole kiinnostunut"
+  },
+  "actionDismissTitle": {
+    "message": "Kerro X:lle, ettei tämä julkaisu kiinnosta sinua"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Painikepaketti"
+  },
+  "popupSubtitle": {
+    "message": "Valitse kuhunkin julkaisuun näytettävä kuvakonesarja."
+  },
+  "popupReset": {
+    "message": "Palauta"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Painikepaketin esikatselu"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Saatavilla olevat painikepaketit"
+  },
+  "kitClassicName": {
+    "message": "Klassinen"
+  },
+  "kitClassicDescription": {
+    "message": "Alkuperäinen painikesarja."
+  },
+  "kitMinimalName": {
+    "message": "Minimalistinen"
+  },
+  "kitMinimalDescription": {
+    "message": "Ohuet, hillityt viivat kevyemmälle aikajanalle."
+  },
+  "kitBoldName": {
+    "message": "Lihavoitu"
+  },
+  "kitBoldDescription": {
+    "message": "Paksummat ääriviivat paremmalla näkyvyydellä."
+  },
+  "kitSharpName": {
+    "message": "Terävä"
+  },
+  "kitSharpDescription": {
+    "message": "Kulmikkaat symbolit teknisemmällä ilmeellä."
+  },
+  "kitSoftName": {
+    "message": "Pehmeä"
+  },
+  "kitSoftDescription": {
+    "message": "Pyöristetyt, ystävälliset muodot sileillä käyrillä."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "kiitos. x käyttää tätä aikajanan parantamiseen"
+  },
+  "dismissFeedbackUndo": {
+    "message": "kumoa"
+  },
+  "popupThemeLight": {
+    "message": "Päivä"
+  },
+  "popupThemeDark": {
+    "message": "Yö"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Vaihda ponnahdusikkunan teemaa"
+  }
+}

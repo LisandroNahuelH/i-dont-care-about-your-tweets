@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Man Neinteresē Jūsu Tvīti Premium11: Bloķēt, Apklusināt, Neinteresē"
+  },
+  "extensionDescription": {
+    "message": "Pievieno pogas Bloķēt, Apklusināt un Neinteresē katram X.com ierakstam."
+  },
+  "actionBlock": {
+    "message": "Bloķēt"
+  },
+  "actionBlockTitle": {
+    "message": "Bloķēt šī ieraksta autoru"
+  },
+  "actionMute": {
+    "message": "Apklusināt"
+  },
+  "actionMuteTitle": {
+    "message": "Apklusināt šī ieraksta autoru"
+  },
+  "actionDismiss": {
+    "message": "Neinteresē"
+  },
+  "actionDismissTitle": {
+    "message": "Paziņojiet X, ka šis ieraksts jums neinteresē"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Pogu komplekts"
+  },
+  "popupSubtitle": {
+    "message": "Izvēlieties ikonu komplektu, kas tiek rādīts pie katra ieraksta."
+  },
+  "popupReset": {
+    "message": "Atiestatīt"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Pogu komplekta priekšskatījums"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Pieejamie pogu komplekti"
+  },
+  "kitClassicName": {
+    "message": "Klasiskais"
+  },
+  "kitClassicDescription": {
+    "message": "Sākotnējais pogu komplekts."
+  },
+  "kitMinimalName": {
+    "message": "Minimālais"
+  },
+  "kitMinimalDescription": {
+    "message": "Plānas, klusas līnijas vieglākai laika līnijai."
+  },
+  "kitBoldName": {
+    "message": "Treknais"
+  },
+  "kitBoldDescription": {
+    "message": "Biezākas kontūras ar lielāku redzamību."
+  },
+  "kitSharpName": {
+    "message": "Asais"
+  },
+  "kitSharpDescription": {
+    "message": "Leņķainas ikonas ar tehniskāku sajūtu."
+  },
+  "kitSoftName": {
+    "message": "Mīkstais"
+  },
+  "kitSoftDescription": {
+    "message": "Noapaļotas, draudzīgas formas ar gludām līknēm."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "paldies. x izmantos to, lai uzlabotu jūsu laika līniju"
+  },
+  "dismissFeedbackUndo": {
+    "message": "atcelt"
+  },
+  "popupThemeLight": {
+    "message": "Diena"
+  },
+  "popupThemeDark": {
+    "message": "Nakts"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Pārslēgt uznirstošā loga motīvu"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Boli Me Za Vaše Tvite Premium11: Blokiraj, Utišaj, Ne Zanima Me"
+  },
+  "extensionDescription": {
+    "message": "Doda gumb Bloiraj, Utišaj in Me ne zanima ob vsaki objavi na X.com."
+  },
+  "actionBlock": {
+    "message": "Bloiraj"
+  },
+  "actionBlockTitle": {
+    "message": "Bloiraj avtorja te objave"
+  },
+  "actionMute": {
+    "message": "Utišaj"
+  },
+  "actionMuteTitle": {
+    "message": "Utišaj avtorja te objave"
+  },
+  "actionDismiss": {
+    "message": "Me ne zanima"
+  },
+  "actionDismissTitle": {
+    "message": "Povejte X, da vas ta objava ne zanima"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Komplet gumbov"
+  },
+  "popupSubtitle": {
+    "message": "Izberite nabor ikon, prikazanih ob vsaki objavi."
+  },
+  "popupReset": {
+    "message": "Ponastavi"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Predogled kompleta gumbov"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Razpoložljivi kompleti gumbov"
+  },
+  "kitClassicName": {
+    "message": "Klasičen"
+  },
+  "kitClassicDescription": {
+    "message": "Izvirni komplet gumbov."
+  },
+  "kitMinimalName": {
+    "message": "Minimalen"
+  },
+  "kitMinimalDescription": {
+    "message": "Tanke, diskretne črte za lažji časovni potek."
+  },
+  "kitBoldName": {
+    "message": "Krepak"
+  },
+  "kitBoldDescription": {
+    "message": "Debelejši obrisi z večjo vidnostjo."
+  },
+  "kitSharpName": {
+    "message": "Oster"
+  },
+  "kitSharpDescription": {
+    "message": "Kotni simboli z bolj tehničnim videzom."
+  },
+  "kitSoftName": {
+    "message": "Mehek"
+  },
+  "kitSoftDescription": {
+    "message": "Zaobljeni, prijazni oblike z gladkimi krivuljami."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "hvala. x bo to uporabil za izboljšanje vašega časovnega poteka"
+  },
+  "dismissFeedbackUndo": {
+    "message": "razveljavi"
+  },
+  "popupThemeLight": {
+    "message": "Dan"
+  },
+  "popupThemeDark": {
+    "message": "Noč"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Preklopi temo pojavnega okna"
+  }
+}

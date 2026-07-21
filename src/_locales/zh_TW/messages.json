@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "我不在乎你的推文 Premium11: 封鎖、靜音、不感興趣"
+  },
+  "extensionDescription": {
+    "message": "為每則 X.com 貼文新增封鎖、將對方靜音和不感興趣按鈕。"
+  },
+  "actionBlock": {
+    "message": "封鎖"
+  },
+  "actionBlockTitle": {
+    "message": "封鎖這則貼文的作者"
+  },
+  "actionMute": {
+    "message": "將對方靜音"
+  },
+  "actionMuteTitle": {
+    "message": "將這則貼文的作者靜音"
+  },
+  "actionDismiss": {
+    "message": "不感興趣"
+  },
+  "actionDismissTitle": {
+    "message": "告訴 X 你對這則貼文不感興趣"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "按鈕套件"
+  },
+  "popupSubtitle": {
+    "message": "選擇每則貼文上顯示的圖示集。"
+  },
+  "popupReset": {
+    "message": "重設"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "按鈕套件預覽"
+  },
+  "popupKitListAriaLabel": {
+    "message": "可用的按鈕套件"
+  },
+  "kitClassicName": {
+    "message": "經典"
+  },
+  "kitClassicDescription": {
+    "message": "原始按鈕集。"
+  },
+  "kitMinimalName": {
+    "message": "極簡"
+  },
+  "kitMinimalDescription": {
+    "message": "纖細低調的線條，讓時間軸更輕盈。"
+  },
+  "kitBoldName": {
+    "message": "粗體"
+  },
+  "kitBoldDescription": {
+    "message": "更粗的線條輪廓，辨識度更高。"
+  },
+  "kitSharpName": {
+    "message": "銳利"
+  },
+  "kitSharpDescription": {
+    "message": "稜角分明的符號，更具技術感。"
+  },
+  "kitSoftName": {
+    "message": "柔和"
+  },
+  "kitSoftDescription": {
+    "message": "圓潤友善的造型，線條流暢柔和。"
+  },
+  "dismissFeedbackThankYou": {
+    "message": "謝謝。x 會使用這項資訊來改善你的時間軸"
+  },
+  "dismissFeedbackUndo": {
+    "message": "復原"
+  },
+  "popupThemeLight": {
+    "message": "日間"
+  },
+  "popupThemeDark": {
+    "message": "夜間"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "切換彈出視窗主題"
+  }
+}

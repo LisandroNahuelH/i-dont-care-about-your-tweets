@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "No M'Importen Els Teus Tuits Premium11: Bloqueja, Silencia, No M'Interessa"
+  },
+  "extensionDescription": {
+    "message": "Afegeix botons de Bloquejar, Silenciar i No m'interessa a cada publicació de X.com."
+  },
+  "actionBlock": {
+    "message": "Bloquejar"
+  },
+  "actionBlockTitle": {
+    "message": "Bloqueja l'autor d'aquesta publicació"
+  },
+  "actionMute": {
+    "message": "Silenciar"
+  },
+  "actionMuteTitle": {
+    "message": "Silencia l'autor d'aquesta publicació"
+  },
+  "actionDismiss": {
+    "message": "No m'interessa"
+  },
+  "actionDismissTitle": {
+    "message": "Digues a X que no t'interessa aquesta publicació"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Kit de botons"
+  },
+  "popupSubtitle": {
+    "message": "Tria el conjunt d'icones que es mostra a cada publicació."
+  },
+  "popupReset": {
+    "message": "Restableix"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Previsualització del kit de botons"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Kits de botons disponibles"
+  },
+  "kitClassicName": {
+    "message": "Clàssic"
+  },
+  "kitClassicDescription": {
+    "message": "El conjunt de botons original."
+  },
+  "kitMinimalName": {
+    "message": "Mínim"
+  },
+  "kitMinimalDescription": {
+    "message": "Línies fines i discretes per a una cronologia més lleugera."
+  },
+  "kitBoldName": {
+    "message": "Negreta"
+  },
+  "kitBoldDescription": {
+    "message": "Contorns més gruixuts amb una visibilitat més marcada."
+  },
+  "kitSharpName": {
+    "message": "Agut"
+  },
+  "kitSharpDescription": {
+    "message": "Símbols angulars amb un toc més tècnic."
+  },
+  "kitSoftName": {
+    "message": "Suau"
+  },
+  "kitSoftDescription": {
+    "message": "Formes arrodonides i amigables amb corbes suaus."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "gràcies. x farà servir això per millorar la teva cronologia"
+  },
+  "dismissFeedbackUndo": {
+    "message": "desfer"
+  },
+  "popupThemeLight": {
+    "message": "Dia"
+  },
+  "popupThemeDark": {
+    "message": "Nit"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Canvia el tema del popup"
+  }
+}

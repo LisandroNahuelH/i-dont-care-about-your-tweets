@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "ትዊቶችዎ አይገድኑኝም Premium11: አግድ፣ ድምጸ-አልባ፣ ፍላጎት የለኝም"
+  },
+  "extensionDescription": {
+    "message": "በእያንዳንዱ የ X.com ልጥፍ ላይ የአግድ፣ የድምጸ-አልባ እና የአልፈልግም ቁልፎችን ይጨምራል።"
+  },
+  "actionBlock": {
+    "message": "አግድ"
+  },
+  "actionBlockTitle": {
+    "message": "የዚህን ልጥፍ ደራሲ አግድ"
+  },
+  "actionMute": {
+    "message": "ድምጸ-አልባ"
+  },
+  "actionMuteTitle": {
+    "message": "የዚህን ልጥፍ ደራሲ ድምጸ-አልባ አድርግ"
+  },
+  "actionDismiss": {
+    "message": "አልፈልግም"
+  },
+  "actionDismissTitle": {
+    "message": "በዚህ ልጥፍ አልፈልግም ለ X ንገር"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "የቁልፍ ስብስብ"
+  },
+  "popupSubtitle": {
+    "message": "በእያንዳንዱ ልጥፍ ላይ የሚታየውን የአዶ ስብስብ ይምረጡ።"
+  },
+  "popupReset": {
+    "message": "እንደገና አስጀምር"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "የቁልፍ ስብስብ ቅድመ-እይታ"
+  },
+  "popupKitListAriaLabel": {
+    "message": "የሚገኙ የቁልፍ ስብስቦች"
+  },
+  "kitClassicName": {
+    "message": "ክላሲክ"
+  },
+  "kitClassicDescription": {
+    "message": "የመጀመሪያው የቁልፍ ስብስብ።"
+  },
+  "kitMinimalName": {
+    "message": "አነስተኛ"
+  },
+  "kitMinimalDescription": {
+    "message": "ለቀላል የጊዜ መስመር ቀጭን እና ስለት የለው መስመሮች።"
+  },
+  "kitBoldName": {
+    "message": "ደማቅ"
+  },
+  "kitBoldDescription": {
+    "message": "ከፍተኛ ታይነት ያላቸው ድፍረት ያላቸው ውጫዊ መስመሮች።"
+  },
+  "kitSharpName": {
+    "message": "ሹል"
+  },
+  "kitSharpDescription": {
+    "message": "በቴክኒካዊ ስሜት የተሞሉ ስነ-ምልክቶች።"
+  },
+  "kitSoftName": {
+    "message": "ለስላሳ"
+  },
+  "kitSoftDescription": {
+    "message": "ለስላሳ እንቅስቃሴ ያላቸው ዙር የተደረጉባቸው ቅርጾች።"
+  },
+  "dismissFeedbackThankYou": {
+    "message": "አመሰግናለሁ። x ይህን ለትዕይንትዎ ለማሻሻል ይጠቀምበታል"
+  },
+  "dismissFeedbackUndo": {
+    "message": "መልስ"
+  },
+  "popupThemeLight": {
+    "message": "ቀን"
+  },
+  "popupThemeDark": {
+    "message": "ሌሊት"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "የፖፕአፕ ገጽታ ቀይር"
+  }
+}

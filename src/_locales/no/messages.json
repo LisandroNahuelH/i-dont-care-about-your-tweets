@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Jeg Bryr Meg Ikke Om Tweetene Dine Premium11: Blokker, Demp, Uinteressert"
+  },
+  "extensionDescription": {
+    "message": "Legger til knappene Blokker, Demp og Ikke interessert på hvert innlegg på X.com."
+  },
+  "actionBlock": {
+    "message": "Blokker"
+  },
+  "actionBlockTitle": {
+    "message": "Blokker forfatteren av dette innlegget"
+  },
+  "actionMute": {
+    "message": "Demp"
+  },
+  "actionMuteTitle": {
+    "message": "Demp forfatteren av dette innlegget"
+  },
+  "actionDismiss": {
+    "message": "Ikke interessert"
+  },
+  "actionDismissTitle": {
+    "message": "Fortell X at du ikke er interessert i dette innlegget"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Knappesett"
+  },
+  "popupSubtitle": {
+    "message": "Velg ikonsettet som vises på hvert innlegg."
+  },
+  "popupReset": {
+    "message": "Tilbakestill"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Forhåndsvisning av knappesett"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Tilgjengelige knappesett"
+  },
+  "kitClassicName": {
+    "message": "Klassisk"
+  },
+  "kitClassicDescription": {
+    "message": "Det originale knappesettet."
+  },
+  "kitMinimalName": {
+    "message": "Minimalistisk"
+  },
+  "kitMinimalDescription": {
+    "message": "Tynne, diskrete linjer for en lettere tidslinje."
+  },
+  "kitBoldName": {
+    "message": "Fet"
+  },
+  "kitBoldDescription": {
+    "message": "Tykkere omriss med sterkere synlighet."
+  },
+  "kitSharpName": {
+    "message": "Skarp"
+  },
+  "kitSharpDescription": {
+    "message": "Kantede symboler med en mer teknisk følelse."
+  },
+  "kitSoftName": {
+    "message": "Myk"
+  },
+  "kitSoftDescription": {
+    "message": "Avrundede, vennlige former med jevne kurver."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "takk. x vil bruke dette til å forbedre tidslinjen din"
+  },
+  "dismissFeedbackUndo": {
+    "message": "angre"
+  },
+  "popupThemeLight": {
+    "message": "Dag"
+  },
+  "popupThemeDark": {
+    "message": "Natt"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Bytt popup-tema"
+  }
+}

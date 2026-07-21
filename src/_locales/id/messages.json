@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Saya Tidak Peduli Tweet Anda Premium11: Blokir, Bisukan, Tidak Tertarik"
+  },
+  "extensionDescription": {
+    "message": "Menambahkan tombol Blokir, Bisukan, dan Tidak Tertarik ke setiap postingan X.com."
+  },
+  "actionBlock": {
+    "message": "Blokir"
+  },
+  "actionBlockTitle": {
+    "message": "Blokir penulis postingan ini"
+  },
+  "actionMute": {
+    "message": "Bisukan"
+  },
+  "actionMuteTitle": {
+    "message": "Bisukan penulis postingan ini"
+  },
+  "actionDismiss": {
+    "message": "Tidak tertarik"
+  },
+  "actionDismissTitle": {
+    "message": "Beri tahu X bahwa Anda tidak tertarik pada postingan ini"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Kit tombol"
+  },
+  "popupSubtitle": {
+    "message": "Pilih set ikon yang ditampilkan di setiap postingan."
+  },
+  "popupReset": {
+    "message": "Atur ulang"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Pratinjau kit tombol"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Kit tombol yang tersedia"
+  },
+  "kitClassicName": {
+    "message": "Klasik"
+  },
+  "kitClassicDescription": {
+    "message": "Set tombol asli."
+  },
+  "kitMinimalName": {
+    "message": "Ringkas"
+  },
+  "kitMinimalDescription": {
+    "message": "Garis tipis dan tenang untuk timeline yang lebih ringan."
+  },
+  "kitBoldName": {
+    "message": "Tebal"
+  },
+  "kitBoldDescription": {
+    "message": "Garis luar lebih tebal dengan visibilitas lebih kuat."
+  },
+  "kitSharpName": {
+    "message": "Tajam"
+  },
+  "kitSharpDescription": {
+    "message": "Simbol bersudut dengan nuansa lebih teknis."
+  },
+  "kitSoftName": {
+    "message": "Lembut"
+  },
+  "kitSoftDescription": {
+    "message": "Bentuk bulat dan ramah dengan kurva halus."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "terima kasih. x akan menggunakan ini untuk meningkatkan timeline anda"
+  },
+  "dismissFeedbackUndo": {
+    "message": "batalkan"
+  },
+  "popupThemeLight": {
+    "message": "Siang"
+  },
+  "popupThemeDark": {
+    "message": "Malam"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Ganti tema popup"
+  }
+}

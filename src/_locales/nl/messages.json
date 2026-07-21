@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Ik Geef Niks Om Je Tweets Premium11: Blokkeren, Dempen, Niet Geïnteresseerd"
+  },
+  "extensionDescription": {
+    "message": "Voegt Blokkeren, Dempen en Niet geïnteresseerd-knoppen toe aan elk X.com-bericht."
+  },
+  "actionBlock": {
+    "message": "Blokkeren"
+  },
+  "actionBlockTitle": {
+    "message": "De auteur van dit bericht blokkeren"
+  },
+  "actionMute": {
+    "message": "Dempen"
+  },
+  "actionMuteTitle": {
+    "message": "De auteur van dit bericht dempen"
+  },
+  "actionDismiss": {
+    "message": "Niet geïnteresseerd"
+  },
+  "actionDismissTitle": {
+    "message": "Laat X weten dat je niet geïnteresseerd bent in dit bericht"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Knoppenkit"
+  },
+  "popupSubtitle": {
+    "message": "Kies het pictogrammenpakket dat op elk bericht wordt getoond."
+  },
+  "popupReset": {
+    "message": "Herstellen"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Voorbeeld knoppenkit"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Beschikbare knoppenkits"
+  },
+  "kitClassicName": {
+    "message": "Klassiek"
+  },
+  "kitClassicDescription": {
+    "message": "De oorspronkelijke knoppenset."
+  },
+  "kitMinimalName": {
+    "message": "Minimaal"
+  },
+  "kitMinimalDescription": {
+    "message": "Dunne, rustige lijnen voor een lichtere tijdlijn."
+  },
+  "kitBoldName": {
+    "message": "Vet"
+  },
+  "kitBoldDescription": {
+    "message": "Dikkere contouren met sterkere zichtbaarheid."
+  },
+  "kitSharpName": {
+    "message": "Scherp"
+  },
+  "kitSharpDescription": {
+    "message": "Hoekige symbolen met een technischere uitstraling."
+  },
+  "kitSoftName": {
+    "message": "Zacht"
+  },
+  "kitSoftDescription": {
+    "message": "Afgeronde, vriendelijke vormen met vloeiende curves."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "bedankt. x gebruikt dit om je tijdlijn te verbeteren"
+  },
+  "dismissFeedbackUndo": {
+    "message": "ongedaan maken"
+  },
+  "popupThemeLight": {
+    "message": "Dag"
+  },
+  "popupThemeDark": {
+    "message": "Nacht"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Popup-thema wisselen"
+  }
+}

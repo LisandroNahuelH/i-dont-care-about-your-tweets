@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Nie Obchodzą Mnie Twoje Tweety Premium11: Blokuj, Wycisz, Nie Interesuje"
+  },
+  "extensionDescription": {
+    "message": "Dodaje przyciski Zablokuj, Wycisz i Nie interesuje mnie do każdego wpisu na X.com."
+  },
+  "actionBlock": {
+    "message": "Zablokuj"
+  },
+  "actionBlockTitle": {
+    "message": "Zablokuj autora tego wpisu"
+  },
+  "actionMute": {
+    "message": "Wycisz"
+  },
+  "actionMuteTitle": {
+    "message": "Wycisz autora tego wpisu"
+  },
+  "actionDismiss": {
+    "message": "Nie interesuje mnie"
+  },
+  "actionDismissTitle": {
+    "message": "Powiedz X, że nie interesuje Cię ten wpis"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Zestaw przycisków"
+  },
+  "popupSubtitle": {
+    "message": "Wybierz zestaw ikon wyświetlanych przy każdym wpisie."
+  },
+  "popupReset": {
+    "message": "Resetuj"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Podgląd zestawu przycisków"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Dostępne zestawy przycisków"
+  },
+  "kitClassicName": {
+    "message": "Klasyczny"
+  },
+  "kitClassicDescription": {
+    "message": "Oryginalny zestaw przycisków."
+  },
+  "kitMinimalName": {
+    "message": "Minimalny"
+  },
+  "kitMinimalDescription": {
+    "message": "Cienkie, dyskretne linie dla lżejszej osi czasu."
+  },
+  "kitBoldName": {
+    "message": "Pogrubiony"
+  },
+  "kitBoldDescription": {
+    "message": "Grubsze kontury z większą widocznością."
+  },
+  "kitSharpName": {
+    "message": "Ostry"
+  },
+  "kitSharpDescription": {
+    "message": "Kanciaste symbole o bardziej technicznym charakterze."
+  },
+  "kitSoftName": {
+    "message": "Miękki"
+  },
+  "kitSoftDescription": {
+    "message": "Zaokrąglone, przyjazne kształty z płynnymi krzywiznami."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "dzięki. x wykorzysta to, aby ulepszyć twoją oś czasu"
+  },
+  "dismissFeedbackUndo": {
+    "message": "cofnij"
+  },
+  "popupThemeLight": {
+    "message": "Dzień"
+  },
+  "popupThemeDark": {
+    "message": "Noc"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Przełącz motyw wyskakującego okna"
+  }
+}

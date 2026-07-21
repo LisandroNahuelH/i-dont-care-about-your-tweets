@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Tweetlerin Umurumda Değil Premium11: Engelle, Sessize Al, İlgilenmiyorum"
+  },
+  "extensionDescription": {
+    "message": "Her X.com gönderisine Engelle, Sessize Al ve İlgilenmiyorum düğmelerini ekler."
+  },
+  "actionBlock": {
+    "message": "Engelle"
+  },
+  "actionBlockTitle": {
+    "message": "Bu gönderinin yazarını engelle"
+  },
+  "actionMute": {
+    "message": "Sessize al"
+  },
+  "actionMuteTitle": {
+    "message": "Bu gönderinin yazarını sessize al"
+  },
+  "actionDismiss": {
+    "message": "İlgilenmiyorum"
+  },
+  "actionDismissTitle": {
+    "message": "X'e bu gönderiyle ilgilenmediğinizi bildirin"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Düğme seti"
+  },
+  "popupSubtitle": {
+    "message": "Her gönderide gösterilen simge setini seçin."
+  },
+  "popupReset": {
+    "message": "Sıfırla"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Düğme seti önizlemesi"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Kullanılabilir düğme setleri"
+  },
+  "kitClassicName": {
+    "message": "Klasik"
+  },
+  "kitClassicDescription": {
+    "message": "Orijinal düğme seti."
+  },
+  "kitMinimalName": {
+    "message": "Sade"
+  },
+  "kitMinimalDescription": {
+    "message": "Daha hafif bir zaman akışı için ince, sade çizgiler."
+  },
+  "kitBoldName": {
+    "message": "Kalın"
+  },
+  "kitBoldDescription": {
+    "message": "Daha belirgin görünürlük için kalın hatlar."
+  },
+  "kitSharpName": {
+    "message": "Keskin"
+  },
+  "kitSharpDescription": {
+    "message": "Daha teknik bir his veren köşeli simgeler."
+  },
+  "kitSoftName": {
+    "message": "Yumuşak"
+  },
+  "kitSoftDescription": {
+    "message": "Yumuşak kıvrımlarla yuvarlak, dostça şekiller."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "teşekkürler. x bunu zaman akışınızı iyileştirmek için kullanacak"
+  },
+  "dismissFeedbackUndo": {
+    "message": "geri al"
+  },
+  "popupThemeLight": {
+    "message": "Gündüz"
+  },
+  "popupThemeDark": {
+    "message": "Gece"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Açılır pencere temasını değiştir"
+  }
+}

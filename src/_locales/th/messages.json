@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "ฉันไม่สนใจทวีตของคุณ Premium11: บล็อก ปิดเสียง ไม่สนใจ"
+  },
+  "extensionDescription": {
+    "message": "เพิ่มปุ่มบล็อก ปิดเสียง และไม่สนใจในแต่ละโพสต์บน X.com"
+  },
+  "actionBlock": {
+    "message": "บล็อก"
+  },
+  "actionBlockTitle": {
+    "message": "บล็อกผู้เขียนโพสต์นี้"
+  },
+  "actionMute": {
+    "message": "ปิดเสียง"
+  },
+  "actionMuteTitle": {
+    "message": "ปิดเสียงผู้เขียนโพสต์นี้"
+  },
+  "actionDismiss": {
+    "message": "ไม่สนใจ"
+  },
+  "actionDismissTitle": {
+    "message": "บอก X ว่าคุณไม่สนใจโพสต์นี้"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "ชุดปุ่ม"
+  },
+  "popupSubtitle": {
+    "message": "เลือกชุดไอคอนที่แสดงในแต่ละโพสต์"
+  },
+  "popupReset": {
+    "message": "รีเซ็ต"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "ตัวอย่างชุดปุ่ม"
+  },
+  "popupKitListAriaLabel": {
+    "message": "ชุดปุ่มที่มีให้เลือก"
+  },
+  "kitClassicName": {
+    "message": "คลาสสิก"
+  },
+  "kitClassicDescription": {
+    "message": "ชุดปุ่มดั้งเดิม"
+  },
+  "kitMinimalName": {
+    "message": "มินิมอล"
+  },
+  "kitMinimalDescription": {
+    "message": "เส้นบางและเรียบง่ายสำหรับไทม์ไลน์ที่เบาสบาย"
+  },
+  "kitBoldName": {
+    "message": "ตัวหนา"
+  },
+  "kitBoldDescription": {
+    "message": "เส้นขอบหนาที่มองเห็นได้ชัดเจน"
+  },
+  "kitSharpName": {
+    "message": "คมชัด"
+  },
+  "kitSharpDescription": {
+    "message": "สัญลักษณ์มุมแหลมให้ความรู้สึกเชิงเทคนิค"
+  },
+  "kitSoftName": {
+    "message": "นุ่มนวล"
+  },
+  "kitSoftDescription": {
+    "message": "รูปทรงโค้งมนเป็นมิตรพร้อมเส้นโค้งที่ลื่นไหล"
+  },
+  "dismissFeedbackThankYou": {
+    "message": "ขอบคุณ x จะใช้สิ่งนี้เพื่อปรับปรุงไทม์ไลน์ของคุณ"
+  },
+  "dismissFeedbackUndo": {
+    "message": "เลิกทำ"
+  },
+  "popupThemeLight": {
+    "message": "กลางวัน"
+  },
+  "popupThemeDark": {
+    "message": "กลางคืน"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "สลับธีมป๊อปอัป"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "برایم مهم نیست توییت‌هایت Premium11: مسدود، بی‌صدا، علاقه‌ای نیست"
+  },
+  "extensionDescription": {
+    "message": "دکمه‌های مسدودسازی، بی‌صدا کردن و «علاقه‌ای ندارم» را به هر پست X.com اضافه می‌کند."
+  },
+  "actionBlock": {
+    "message": "مسدود کردن"
+  },
+  "actionBlockTitle": {
+    "message": "نویسنده این پست را مسدود کنید"
+  },
+  "actionMute": {
+    "message": "بی‌صدا کردن"
+  },
+  "actionMuteTitle": {
+    "message": "نویسنده این پست را بی‌صدا کنید"
+  },
+  "actionDismiss": {
+    "message": "علاقه‌ای ندارم"
+  },
+  "actionDismissTitle": {
+    "message": "به X بگویید به این پست علاقه‌ای ندارید"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "مجموعه دکمه‌ها"
+  },
+  "popupSubtitle": {
+    "message": "مجموعه آیکون نمایش داده شده در هر پست را انتخاب کنید."
+  },
+  "popupReset": {
+    "message": "بازنشانی"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "پیش‌نمایش مجموعه دکمه‌ها"
+  },
+  "popupKitListAriaLabel": {
+    "message": "مجموعه‌های دکمه موجود"
+  },
+  "kitClassicName": {
+    "message": "کلاسیک"
+  },
+  "kitClassicDescription": {
+    "message": "مجموعه دکمه‌های اصلی."
+  },
+  "kitMinimalName": {
+    "message": "مینیمال"
+  },
+  "kitMinimalDescription": {
+    "message": "خطوط نازک و آرام برای تایم‌لاین سبک‌تر."
+  },
+  "kitBoldName": {
+    "message": "برجسته"
+  },
+  "kitBoldDescription": {
+    "message": "حاشیه‌های ضخیم‌تر با دید بهتر."
+  },
+  "kitSharpName": {
+    "message": "تیز"
+  },
+  "kitSharpDescription": {
+    "message": "نمادهای زاویه‌دار با حس فنی‌تر."
+  },
+  "kitSoftName": {
+    "message": "نرم"
+  },
+  "kitSoftDescription": {
+    "message": "اشکال گرد و دوستانه با منحنی‌های نرم."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "ممنون. x از این برای بهبود خط زمانی شما استفاده می‌کند"
+  },
+  "dismissFeedbackUndo": {
+    "message": "بازگردانی"
+  },
+  "popupThemeLight": {
+    "message": "روز"
+  },
+  "popupThemeDark": {
+    "message": "شب"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "تغییر پوسته پنجره"
+  }
+}

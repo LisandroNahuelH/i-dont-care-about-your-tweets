@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Не Ме Интересуват Туитовете Ви Premium11: Блок, Заглуши, Не Ме Интересува"
+  },
+  "extensionDescription": {
+    "message": "Добавя бутони за блокиране, заглушаване и „Не ме интересува“ към всяка публикация в X.com."
+  },
+  "actionBlock": {
+    "message": "Блокиране"
+  },
+  "actionBlockTitle": {
+    "message": "Блокирай автора на тази публикация"
+  },
+  "actionMute": {
+    "message": "Заглушаване"
+  },
+  "actionMuteTitle": {
+    "message": "Заглуши автора на тази публикация"
+  },
+  "actionDismiss": {
+    "message": "Не ме интересува"
+  },
+  "actionDismissTitle": {
+    "message": "Кажи на X, че не те интересува тази публикация"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "Комплект бутони"
+  },
+  "popupSubtitle": {
+    "message": "Изберете набора от икони, показвани на всяка публикация."
+  },
+  "popupReset": {
+    "message": "Нулиране"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "Преглед на комплекта бутони"
+  },
+  "popupKitListAriaLabel": {
+    "message": "Налични комплекти бутони"
+  },
+  "kitClassicName": {
+    "message": "Класически"
+  },
+  "kitClassicDescription": {
+    "message": "Оригиналният комплект бутони."
+  },
+  "kitMinimalName": {
+    "message": "Минималистичен"
+  },
+  "kitMinimalDescription": {
+    "message": "Тънки, ненатрапчиви линии за по-лека хронология."
+  },
+  "kitBoldName": {
+    "message": "Удебелен"
+  },
+  "kitBoldDescription": {
+    "message": "По-дебели контури с по-силна видимост."
+  },
+  "kitSharpName": {
+    "message": "Остър"
+  },
+  "kitSharpDescription": {
+    "message": "Ъглови символи с по-технически вид."
+  },
+  "kitSoftName": {
+    "message": "Мек"
+  },
+  "kitSoftDescription": {
+    "message": "Заоблени, приятелски форми с плавни извивки."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "благодарим. x ще използва това, за да подобри вашата хронология"
+  },
+  "dismissFeedbackUndo": {
+    "message": "отмени"
+  },
+  "popupThemeLight": {
+    "message": "Ден"
+  },
+  "popupThemeDark": {
+    "message": "Нощ"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "Превключване на темата на изскачащия прозорец"
+  }
+}

@@ -1,0 +1,49 @@
+.preview {
+  background:
+    linear-gradient(90deg, var(--preview-grid) 1px, transparent 1px),
+    linear-gradient(180deg, var(--preview-bg-start), var(--preview-bg-end)),
+    var(--card-bg);
+  background-size: 22px 22px, auto, auto;
+  border: 1px solid var(--card-border);
+  border-radius: 14px;
+  box-shadow: var(--card-shadow);
+  display: flex;
+  justify-content: center;
+  padding: 20px 12px;
+}
+
+.preview-bar {
+  align-items: center;
+  background: var(--preview-bar-surface);
+  border: 1px solid var(--soft-border);
+  border-radius: 999px;
+  box-shadow: 0 5px 18px var(--shadow);
+  display: inline-flex;
+  gap: 4px;
+  padding: 5px;
+}
+
+.preview-action-button {
+  align-items: center;
+  appearance: none;
+  background: transparent;
+  border: none;
+  border-radius: 999px;
+  color: var(--icon-muted);
+  display: inline-flex;
+  height: 30px;
+  justify-content: center;
+  padding: 0;
+  width: 30px;
+}
+
+.preview-action-button:hover {
+  color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 14%, transparent);
+}
+
+.preview-action-button svg {
+  display: block;
+  height: 23px;
+  width: 23px;
+}

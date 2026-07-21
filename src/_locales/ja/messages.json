@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "あなたのツイートなんてどうでもいい Premium11: ブロック・ミュート・興味なし"
+  },
+  "extensionDescription": {
+    "message": "X.comの各投稿にブロック、ミュート、興味なしボタンを追加します。"
+  },
+  "actionBlock": {
+    "message": "ブロック"
+  },
+  "actionBlockTitle": {
+    "message": "この投稿の作者をブロック"
+  },
+  "actionMute": {
+    "message": "ミュート"
+  },
+  "actionMuteTitle": {
+    "message": "この投稿の作者をミュート"
+  },
+  "actionDismiss": {
+    "message": "興味なし"
+  },
+  "actionDismissTitle": {
+    "message": "この投稿に興味がないことをXに伝える"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "ボタンキット"
+  },
+  "popupSubtitle": {
+    "message": "各投稿に表示するアイコンセットを選択します。"
+  },
+  "popupReset": {
+    "message": "リセット"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "ボタンキットのプレビュー"
+  },
+  "popupKitListAriaLabel": {
+    "message": "利用可能なボタンキット"
+  },
+  "kitClassicName": {
+    "message": "クラシック"
+  },
+  "kitClassicDescription": {
+    "message": "オリジナルのボタンセット。"
+  },
+  "kitMinimalName": {
+    "message": "ミニマル"
+  },
+  "kitMinimalDescription": {
+    "message": "細く控えめなラインで、タイムラインを軽やかに。"
+  },
+  "kitBoldName": {
+    "message": "ボールド"
+  },
+  "kitBoldDescription": {
+    "message": "太めのアウトラインで、より目立つデザイン。"
+  },
+  "kitSharpName": {
+    "message": "シャープ"
+  },
+  "kitSharpDescription": {
+    "message": "角ばったシンボルで、よりテクニカルな印象。"
+  },
+  "kitSoftName": {
+    "message": "ソフト"
+  },
+  "kitSoftDescription": {
+    "message": "丸みのある親しみやすい形と滑らかな曲線。"
+  },
+  "dismissFeedbackThankYou": {
+    "message": "ありがとうございます。xはこれを使ってタイムラインを改善します"
+  },
+  "dismissFeedbackUndo": {
+    "message": "元に戻す"
+  },
+  "popupThemeLight": {
+    "message": "昼"
+  },
+  "popupThemeDark": {
+    "message": "夜"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "ポップアップのテーマを切り替え"
+  }
+}

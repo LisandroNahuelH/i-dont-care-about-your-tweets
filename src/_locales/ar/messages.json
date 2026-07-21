@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "لا أهتم بتغريداتك Premium11: حظر وكتم وعدم الاهتمام"
+  },
+  "extensionDescription": {
+    "message": "يضيف أزرار الحظر والكتم وعدم الاهتمام إلى كل منشور على X.com."
+  },
+  "actionBlock": {
+    "message": "حظر"
+  },
+  "actionBlockTitle": {
+    "message": "حظر كاتب هذا المنشور"
+  },
+  "actionMute": {
+    "message": "كتم"
+  },
+  "actionMuteTitle": {
+    "message": "كتم كاتب هذا المنشور"
+  },
+  "actionDismiss": {
+    "message": "غير مهتم"
+  },
+  "actionDismissTitle": {
+    "message": "أخبر X أنك غير مهتم بهذا المنشور"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "مجموعة الأزرار"
+  },
+  "popupSubtitle": {
+    "message": "اختر مجموعة الأيقونات المعروضة على كل منشور."
+  },
+  "popupReset": {
+    "message": "إعادة تعيين"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "معاينة مجموعة الأزرار"
+  },
+  "popupKitListAriaLabel": {
+    "message": "مجموعات الأزرار المتاحة"
+  },
+  "kitClassicName": {
+    "message": "كلاسيكي"
+  },
+  "kitClassicDescription": {
+    "message": "مجموعة الأزرار الأصلية."
+  },
+  "kitMinimalName": {
+    "message": "بسيط"
+  },
+  "kitMinimalDescription": {
+    "message": "خطوط رفيعة وهادئة لخط زمني أخف."
+  },
+  "kitBoldName": {
+    "message": "بارز"
+  },
+  "kitBoldDescription": {
+    "message": "خطوط خارجية أسمك مع وضوح أقوى."
+  },
+  "kitSharpName": {
+    "message": "حاد"
+  },
+  "kitSharpDescription": {
+    "message": "رموز زاوية بطابع تقني."
+  },
+  "kitSoftName": {
+    "message": "ناعم"
+  },
+  "kitSoftDescription": {
+    "message": "أشكال مستديرة وودية بمنحنيات سلسة."
+  },
+  "dismissFeedbackThankYou": {
+    "message": "شكرًا. سيستخدم x ذلك لتحسين الخط الزمني"
+  },
+  "dismissFeedbackUndo": {
+    "message": "تراجع"
+  },
+  "popupThemeLight": {
+    "message": "نهار"
+  },
+  "popupThemeDark": {
+    "message": "ليل"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "تبديل سمة النافذة المنبثقة"
+  }
+}

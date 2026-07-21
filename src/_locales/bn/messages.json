@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "আপনার টুইট নিয়ে আমার কিছু যায় আসে না Premium11: ব্লক, মিউট"
+  },
+  "extensionDescription": {
+    "message": "প্রতিটি X.com পোস্টে ব্লক, মিউট এবং আগ্রহী নই বোতাম যোগ করে।"
+  },
+  "actionBlock": {
+    "message": "ব্লক"
+  },
+  "actionBlockTitle": {
+    "message": "এই পোস্টের লেখককে ব্লক করুন"
+  },
+  "actionMute": {
+    "message": "মিউট"
+  },
+  "actionMuteTitle": {
+    "message": "এই পোস্টের লেখককে মিউট করুন"
+  },
+  "actionDismiss": {
+    "message": "আগ্রহী নই"
+  },
+  "actionDismissTitle": {
+    "message": "X-কে জানান যে আপনি এই পোস্টে আগ্রহী নন"
+  },
+  "popupPageTitle": {
+    "message": "I Don't Care About Your Tweets"
+  },
+  "popupHeading": {
+    "message": "বোতাম কিট"
+  },
+  "popupSubtitle": {
+    "message": "প্রতিটি পোস্টে দেখানো আইকন সেট বেছে নিন।"
+  },
+  "popupReset": {
+    "message": "রিসেট"
+  },
+  "popupPreviewAriaLabel": {
+    "message": "বোতাম কিটের প্রিভিউ"
+  },
+  "popupKitListAriaLabel": {
+    "message": "উপলব্ধ বোতাম কিট"
+  },
+  "kitClassicName": {
+    "message": "ক্লাসিক"
+  },
+  "kitClassicDescription": {
+    "message": "মূল বোতাম সেট।"
+  },
+  "kitMinimalName": {
+    "message": "মিনিমাল"
+  },
+  "kitMinimalDescription": {
+    "message": "হালকা টাইমলাইনের জন্য পাতলা, নীরব রেখা।"
+  },
+  "kitBoldName": {
+    "message": "বোল্ড"
+  },
+  "kitBoldDescription": {
+    "message": "আরও স্পষ্ট দৃশ্যমানতার জন্য মোটা আউটলাইন।"
+  },
+  "kitSharpName": {
+    "message": "শার্প"
+  },
+  "kitSharpDescription": {
+    "message": "আরও প্রযুক্তিগত অনুভূতির কোণাকার প্রতীক।"
+  },
+  "kitSoftName": {
+    "message": "সফট"
+  },
+  "kitSoftDescription": {
+    "message": "মসৃণ বক্ররেখাসহ গোলাকার, বন্ধুত্বপূর্ণ আকার।"
+  },
+  "dismissFeedbackThankYou": {
+    "message": "ধন্যবাদ। x আপনার টাইমলাইন উন্নত করতে এটি ব্যবহার করবে"
+  },
+  "dismissFeedbackUndo": {
+    "message": "পূর্বাবস্থায় ফিরুন"
+  },
+  "popupThemeLight": {
+    "message": "দিন"
+  },
+  "popupThemeDark": {
+    "message": "রাত"
+  },
+  "popupThemeToggleAriaLabel": {
+    "message": "পপআপ থিম পরিবর্তন করুন"
+  }
+}
