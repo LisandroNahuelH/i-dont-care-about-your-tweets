@@ -50,7 +50,10 @@
 body {
   margin: 0;
   min-height: 470px;
+  max-height: 600px;
   width: 360px;
+  overflow-x: hidden;
+  overflow-y: auto;
   color: var(--text);
   font-family: var(--font-ui);
   font-weight: 500;
@@ -60,6 +63,57 @@ body {
     linear-gradient(180deg, var(--bg-top), var(--bg-bottom));
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
+  scrollbar-gutter: stable;
+  scrollbar-width: auto;
+  scrollbar-color: var(--scrollbar-thumb) color-mix(in srgb, #0c1b27 70%, transparent 30%);
+}
+
+body::-webkit-scrollbar {
+  width: 15px;
+}
+
+body::-webkit-scrollbar-track {
+  border-left: 1px solid var(--scrollbar-track-border);
+  border-radius: 999px;
+  background: var(--scrollbar-track-bg);
+  box-shadow: var(--scrollbar-track-shadow);
+}
+
+body::-webkit-scrollbar-thumb {
+  min-height: 54px;
+  border: 3px solid transparent;
+  border-radius: 999px;
+  background-clip: padding-box;
+  background: linear-gradient(
+    180deg,
+    color-mix(in srgb, var(--scrollbar-thumb) 42%, white 58%),
+    var(--scrollbar-thumb) 48%,
+    var(--scrollbar-thumb-strong)
+  );
+  box-shadow: var(--scrollbar-thumb-shadow);
+}
+
+body::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(
+    180deg,
+    color-mix(in srgb, var(--scrollbar-thumb-hover) 38%, white 62%),
+    var(--scrollbar-thumb-hover) 46%,
+    var(--scrollbar-thumb-hover-strong)
+  );
+  box-shadow: var(--scrollbar-thumb-hover-shadow);
+}
+
+body::-webkit-scrollbar-thumb:active {
+  background: linear-gradient(
+    180deg,
+    color-mix(in srgb, var(--scrollbar-thumb-active) 38%, white 62%),
+    var(--scrollbar-thumb-active) 46%,
+    var(--scrollbar-thumb-active-strong)
+  );
+}
+
+body::-webkit-scrollbar-corner {
+  background: transparent;
 }
 
 button {
