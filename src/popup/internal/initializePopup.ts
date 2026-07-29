@@ -7,6 +7,13 @@ import { initializeSelectedKit } from "./initializeSelectedKit";
 import { renderKitOptions } from "./renderKitOptions";
 
 export function initializePopup(): void {
+  try {
+    chrome.runtime.sendMessage({ type: "HEARTBEAT_PING" }, () => {
+      void chrome.runtime.lastError;
+    });
+  } catch {
+    /* ignore */
+  }
   setDocumentLocaleAttributes();
   applyPopupCopy();
   renderKitOptions();
