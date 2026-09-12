@@ -24,10 +24,35 @@
   min-width: 0;
 }
 
+/* Outside cards — top-left brand (click → premium11.com) */
 .p11-brand {
   display: inline-flex;
   align-items: center;
   gap: 8px;
+  flex: 0 0 auto;
+  align-self: flex-start;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 10px;
+  outline: none;
+  transition:
+    opacity 160ms ease,
+    transform 120ms ease;
+}
+
+.p11-brand:hover {
+  opacity: 0.92;
+  transform: translateY(-1px);
+}
+
+.p11-brand:focus-visible {
+  outline: 2px solid var(--focus, #ffb07a);
+  outline-offset: 3px;
 }
 
 .p11-brand__mark {
@@ -54,6 +79,15 @@
 .p11-brand__name::after {
   content: "11";
   color: #11ad32;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .p11-brand {
+    transition: none;
+  }
+  .p11-brand:hover {
+    transform: none;
+  }
 }
 
 .popup-header-actions {

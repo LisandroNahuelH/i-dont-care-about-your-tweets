@@ -65,7 +65,7 @@ body {
   -webkit-font-smoothing: antialiased;
   scrollbar-gutter: stable;
   scrollbar-width: auto;
-  scrollbar-color: var(--scrollbar-thumb) color-mix(in srgb, #0c1b27 70%, transparent 30%);
+  scrollbar-color: var(--scrollbar-thumb) color-mix(in srgb, var(--surface-strong) 70%, transparent 30%);
 }
 
 body::-webkit-scrollbar {
@@ -86,8 +86,8 @@ body::-webkit-scrollbar-thumb {
   background-clip: padding-box;
   background: linear-gradient(
     180deg,
-    color-mix(in srgb, var(--scrollbar-thumb) 42%, white 58%),
-    var(--scrollbar-thumb) 48%,
+    color-mix(in srgb, var(--scrollbar-thumb) 78%, white 22%),
+    var(--scrollbar-thumb) 42%,
     var(--scrollbar-thumb-strong)
   );
   box-shadow: var(--scrollbar-thumb-shadow);
@@ -96,8 +96,8 @@ body::-webkit-scrollbar-thumb {
 body::-webkit-scrollbar-thumb:hover {
   background: linear-gradient(
     180deg,
-    color-mix(in srgb, var(--scrollbar-thumb-hover) 38%, white 62%),
-    var(--scrollbar-thumb-hover) 46%,
+    color-mix(in srgb, var(--scrollbar-thumb-hover) 74%, white 26%),
+    var(--scrollbar-thumb-hover) 42%,
     var(--scrollbar-thumb-hover-strong)
   );
   box-shadow: var(--scrollbar-thumb-hover-shadow);
@@ -106,8 +106,8 @@ body::-webkit-scrollbar-thumb:hover {
 body::-webkit-scrollbar-thumb:active {
   background: linear-gradient(
     180deg,
-    color-mix(in srgb, var(--scrollbar-thumb-active) 38%, white 62%),
-    var(--scrollbar-thumb-active) 46%,
+    color-mix(in srgb, var(--scrollbar-thumb-active) 74%, white 26%),
+    var(--scrollbar-thumb-active) 42%,
     var(--scrollbar-thumb-active-strong)
   );
 }
