@@ -6,6 +6,11 @@ release/
 !.env.example
 .DS_Store
 Thumbs.db
+Backups/
 Backups UI/
 terminals/
 .cursor/
+*.sync-conflict*
+*.bak-*
+__pycache__/
+*.pyc
