@@ -1,0 +1,52 @@
+name: Bug report
+description: Something is broken — help us reproduce it.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the report! The more precise, the faster it gets fixed.
+  - type: input
+    id: version
+    attributes:
+      label: Extension version
+      description: From chrome://extensions or manifest.json.
+      placeholder: "1.2.12"
+    validations:
+      required: true
+  - type: input
+    id: host
+    attributes:
+      label: Browser and OS
+      placeholder: "Chrome 128 on Windows 11"
+    validations:
+      required: true
+  - type: input
+    id: ui-language
+    attributes:
+      label: X UI language
+      description: The language your X account shows menus in (it matters for keyword matching).
+      placeholder: "English / Spanish / ..."
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Exact clicks, in order.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected vs actual
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Console output
+      description: From DevTools on x.com, or the service worker console. No personal data.
+      render: text
+    validations:
+      required: false
