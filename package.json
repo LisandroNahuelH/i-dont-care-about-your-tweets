@@ -2,6 +2,7 @@
   "name": "i-dont-care-about-your-tweets",
   "version": "1.2.12",
   "private": true,
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "clean": "node tools/clean-dist.mjs",
