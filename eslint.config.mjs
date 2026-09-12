@@ -24,7 +24,17 @@ const nodeGlobals = {
 
 export default [
   {
-    ignores: ["content.js", "dist/**", "node_modules/**"]
+    ignores: [
+      "content.js",
+      "dist/**",
+      "node_modules/**",
+      "Backups/**",
+      "Backups UI/**",
+      "release/**",
+      "terminals/**",
+      ".cursor/**",
+      "coverage/**"
+    ]
   },
   js.configs.recommended,
   {
