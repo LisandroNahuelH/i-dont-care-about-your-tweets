@@ -3,7 +3,8 @@
  */
 const PRODUCT = "idont-care-tweets";
 const ENDPOINT = "https://www.premium11.com/api/heartbeat";
-const API_KEY = "0xathm93deqzsbw6u1folgj7kric4ynv";
+// Public client identifier sent as X-Heartbeat-Key; it ships in every build.
+const HEARTBEAT_KEY = "0xathm93deqzsbw6u1folgj7kric4ynv";
 const THROTTLE_MS = 24 * 60 * 60 * 1000;
 const INSTALL_ID_KEY = "idcaytInstallId";
 const LAST_AT_KEY = "idcaytLastHeartbeatAt";
@@ -83,7 +84,7 @@ async function sendAnonymousHeartbeat(event: "install" | "update" | "ping"): Pro
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        "X-Heartbeat-Key": API_KEY
+        "X-Heartbeat-Key": HEARTBEAT_KEY
       },
       body: JSON.stringify(body),
       keepalive: true
